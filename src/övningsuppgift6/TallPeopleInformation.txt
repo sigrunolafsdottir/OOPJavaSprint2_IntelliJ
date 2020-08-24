@@ -1,0 +1,4 @@
+Rulle Rullson, Xvägen 3, 12345 Ystad
+56, 35, 201
+Nisse Nilsson, Xvägen 6, 12345 Ystad
+23, 80, 205
