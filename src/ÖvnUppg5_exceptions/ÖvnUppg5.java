@@ -1,4 +1,4 @@
-package övningsuppgift2;
+package ÖvnUppg5_exceptions;
 
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
@@ -7,7 +7,7 @@ import static javax.swing.JOptionPane.showInputDialog;
 import static javax.swing.JOptionPane.showMessageDialog;
 
 
-public class Övningsuppgift2 {
+public class ÖvnUppg5 {
     
     public static void main(String[] args) {
         String indata = showInputDialog

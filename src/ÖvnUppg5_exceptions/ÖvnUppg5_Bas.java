@@ -1,10 +1,10 @@
-package övningsuppgift2;
+package ÖvnUppg5_exceptions;
 
 
 import static javax.swing.JOptionPane.*; 
  import java.util.*;
 
- public class Övningsuppgift2Bas { 
+ public class ÖvnUppg5_Bas {
    public static void main (String[] arg) {
      String indata = showInputDialog
                 ("Ange antal dagar, pris per dag samt bilmodell");
