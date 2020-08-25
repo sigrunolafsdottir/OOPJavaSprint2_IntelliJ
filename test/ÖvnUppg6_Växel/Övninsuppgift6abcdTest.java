@@ -2,7 +2,6 @@ package ÖvnUppg6_Växel;
 
 import org.junit.Test;
 
-import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 
 import static junit.framework.TestCase.assertTrue;
@@ -10,9 +9,9 @@ import static junit.framework.TestCase.assertFalse;
 import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class Övninsuppgift6aTest {
+public class Övninsuppgift6abcdTest {
 
-    Övningsuppgift6a x = new Övningsuppgift6a();
+    Övningsuppgift6abcd x = new Övningsuppgift6abcd();
 
     // uppgift 3a
     @Test

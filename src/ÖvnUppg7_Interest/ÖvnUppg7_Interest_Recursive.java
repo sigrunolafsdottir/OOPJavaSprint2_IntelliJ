@@ -1,9 +1,9 @@
-package övningsuppgift4;
+package ÖvnUppg7_Interest;
 
 import java.util.Scanner;
 
 
-public class Övningsuppgift4b {
+public class ÖvnUppg7_Interest_Recursive {
     
     private static void calculateInterestPrintOut(double amount, double interest, 
             int remainingYears, int i){

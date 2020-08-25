@@ -1,23 +1,20 @@
-package övningsuppgift4;
+package ÖvnUppg7_Interest;
 
 import java.util.Scanner;
 
 
-public class Övningsuppgift4a {
+public class ÖvnUppg7_Interest {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
         System.out.println("Ange belopp: ");
-        System.out.flush();
         double initialAmount = sc.nextDouble();
         
         System.out.println("Ange ränta: ");
-        System.out.flush();
         double interest = sc.nextDouble();
         
         System.out.println("Hur många år? ");
-        System.out.flush();
         int years = sc.nextInt();
         System.out.println();
         

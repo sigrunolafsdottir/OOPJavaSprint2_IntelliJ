@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 
-public class Övningsuppgift6a {
+public class Övningsuppgift6abcd {
     
     protected static String s = new String();
     public static boolean test = false;
