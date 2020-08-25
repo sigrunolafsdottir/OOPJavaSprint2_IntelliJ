@@ -1,13 +1,11 @@
-package övningsuppgift5;
+package ÖvnUppg8_inläsningFil;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.text.NumberFormat;
-import java.util.Locale;
 
 
-public class Övningsuppgift5a {
-    public Övningsuppgift5a () {
+public class ÖvnUppg8a_gammal_inteTDD {
+    public ÖvnUppg8a_gammal_inteTDD() {
         double temp;
         double tempSum = 0;
         int amountOfDays = 0;
@@ -16,7 +14,7 @@ public class Övningsuppgift5a {
         String tempLine;
         try{
             BufferedReader reader = new BufferedReader(
-                    new FileReader("src/övningsuppgift5/temp.txt"));
+                    new FileReader("src/ÖvnUppg8_inläsningFil/temp.txt"));
             while((tempLine = reader.readLine()) != null){
                 
                 //bort med End of Line-tecknet och eventuella blanktecken som kan gömma sig i filen
@@ -53,6 +51,6 @@ public class Övningsuppgift5a {
     }
     
     public static void main(String[] args){
-        Övningsuppgift5a ö = new Övningsuppgift5a();
+        ÖvnUppg8a_gammal_inteTDD ö = new ÖvnUppg8a_gammal_inteTDD();
     }
 }

@@ -11,7 +11,6 @@
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/Övningsuppgift6b/Personuppgifter.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/Övningsuppgift6b/TallPeopleInformation.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift11/minaFordon.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift5/temp.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/IOtest.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/Personuppgifter.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/TallPeopleInformation.txt" afterDir="false" />
@@ -54,6 +53,15 @@
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg4_scanner_bensinförbrukning/CarCalculator.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg5_exceptions/ÖvnUppg5.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg5_exceptions/ÖvnUppg5_Bas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg6_Växel/ÖvnUppg6_gammal_inteTDD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg6_Växel/Övningsuppgift6abcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest_Recursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8b_gammal_inteTDD.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övningsuppgift6b/IOUtil.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övningsuppgift6b/LogicUtil.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övningsuppgift6b/Person.class" afterDir="false" />
@@ -72,9 +80,6 @@
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/Tåg.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/minaFordon.ser" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/Övningsuppgift11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift5/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift5/Övningsuppgift5a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift5/Övningsuppgift5b.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift6/IOtest.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift6/Personuppgifter.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift6/TallPeopleInformation.txt" afterDir="false" />
@@ -90,17 +95,26 @@
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift8/Övningsuppgift8.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift9/DateProvider.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift9/Övningsuppgift9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/META-INF/Sprint2.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/CircleTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/SquareTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/TriangleTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg2_TDD/CarCalculatorTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/ÖvnUppg8aTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/ÖvnUppg8bTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg8/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8aTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6b.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift4/Övningsuppgift4a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg7_Interest/ÖvnUppg7_Interest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift4/Övningsuppgift4b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg7_Interest/ÖvnUppg7_Interest_Recursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6aTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift5/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift5/temp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift5/Övningsuppgift5a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift5/Övningsuppgift5b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b_gammal_inteTDD.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -127,26 +141,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Övningsuppgift6b/Övningsuppgift6b.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ÖvnUppg7_Interest/ÖvnUppg7_Interest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -181,6 +176,14 @@
         <option value="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java" />
         <option value="$PROJECT_DIR$/src/ÖvnUppg7_Interest/Övningsuppgift4a.java" />
         <option value="$PROJECT_DIR$/src/ÖvnUppg7_Interest/ÖvnUppg7_Interest.java" />
+        <option value="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.java" />
+        <option value="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b_gammal_inteTDD.java" />
+        <option value="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8Test.java" />
+        <option value="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8aTest.java" />
+        <option value="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" />
+        <option value="$PROJECT_DIR$/test/ÖvnUppg8/temp.txt" />
+        <option value="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b.java" />
+        <option value="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" />
       </list>
     </option>
   </component>
@@ -213,12 +216,24 @@
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg7_Interest" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg8_inläsningFil" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg6_Växel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,14 +251,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/ÖvnUppg8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ÖvnUppg8" />
+      <recent name="ÖvnUppg8_inläsningFil" />
       <recent name="ÖvnUppg6_Växel" />
       <recent name="ÖvnUppg4_scanner_bensinförbrukning" />
       <recent name="ÖvnUppg1_TDD" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg8" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -258,13 +279,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ÖvnUppg7_Interest">
-    <configuration name="ÖvnUppg7_Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg7_Interest.ÖvnUppg7_Interest" />
+  <component name="RunManager" selected="JUnit.ÖvnUppg8bTest">
+    <configuration name="ÖvnUppg8a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg8_inläsningFil.ÖvnUppg8a" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg7_Interest.*" />
+          <option name="PATTERN" value="ÖvnUppg8_inläsningFil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övningsuppgift6abcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övningsuppgift6abcd" />
+    <configuration name="ÖvnUppg8b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg8_inläsningFil.ÖvnUppg8b" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
+          <option name="PATTERN" value="ÖvnUppg8_inläsningFil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,60 +306,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övninsuppgift6abcdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ÖvnUppg8aTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
+          <option name="PATTERN" value="ÖvnUppg8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6abcdTest" />
+      <option name="PACKAGE_NAME" value="ÖvnUppg8" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg8.ÖvnUppg8aTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övninsuppgift6abcdTest.readInputDataInputMismatchExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ÖvnUppg8aTest.generateListFromFileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
+          <option name="PATTERN" value="ÖvnUppg8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6abcdTest" />
-      <option name="METHOD_NAME" value="readInputDataInputMismatchExceptionTest" />
+      <option name="PACKAGE_NAME" value="ÖvnUppg8" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg8.ÖvnUppg8aTest" />
+      <option name="METHOD_NAME" value="generateListFromFileTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övninsuppgift6abcdTest.readInputDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ÖvnUppg8bTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
+          <option name="PATTERN" value="ÖvnUppg8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6abcdTest" />
-      <option name="METHOD_NAME" value="readInputDataTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ÖvnUppg8" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg8.ÖvnUppg8bTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ÖvnUppg7_Interest" />
-        <item itemvalue="Application.Övningsuppgift6abcd" />
-        <item itemvalue="JUnit.Övninsuppgift6abcdTest" />
-        <item itemvalue="JUnit.Övninsuppgift6abcdTest.readInputDataInputMismatchExceptionTest" />
-        <item itemvalue="JUnit.Övninsuppgift6abcdTest.readInputDataTest" />
+        <item itemvalue="JUnit.ÖvnUppg8bTest" />
+        <item itemvalue="Application.ÖvnUppg8b" />
+        <item itemvalue="Application.ÖvnUppg8a" />
+        <item itemvalue="JUnit.ÖvnUppg8aTest" />
+        <item itemvalue="JUnit.ÖvnUppg8aTest.generateListFromFileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +384,7 @@
       <workItem from="1598011980906" duration="4409000" />
       <workItem from="1598028527678" duration="2199000" />
       <workItem from="1598253713196" duration="21773000" />
-      <workItem from="1598342181686" duration="5165000" />
+      <workItem from="1598342181686" duration="10222000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -387,43 +407,50 @@
       <option name="project" value="LOCAL" />
       <updated>1598346746500</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Växel-uppgiften, förbättringar">
+      <created>1598347650673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598347650673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Övninsuppgift6aTest_readInputDataInputMismatchExceptionTest - 2020.08.25 at 09h 53m 42s.xml">
-      <configuration name="Övninsuppgift6aTest.readInputDataInputMismatchExceptionTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8aTest_generateListFromFileTest - 2020.08.25 at 16h 52m 24s.xml">
+      <configuration name="ÖvnUppg8aTest.generateListFromFileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 09h 54m 05s.xml">
-      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8aTest_generateListFromFileTest - 2020.08.25 at 16h 53m 18s.xml">
+      <configuration name="ÖvnUppg8aTest.generateListFromFileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 09h 54m 35s.xml">
-      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8aTest_generateListFromFileTest - 2020.08.25 at 16h 54m 54s.xml">
+      <configuration name="ÖvnUppg8aTest.generateListFromFileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest_readInputDataTest - 2020.08.25 at 10h 04m 01s.xml">
-      <configuration name="Övninsuppgift6aTest.readInputDataTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8aTest_generateListFromFileTest - 2020.08.25 at 16h 55m 14s.xml">
+      <configuration name="ÖvnUppg8aTest.generateListFromFileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest_readInputDataTest - 2020.08.25 at 10h 04m 17s.xml">
-      <configuration name="Övninsuppgift6aTest.readInputDataTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8aTest_generateListFromFileTest - 2020.08.25 at 16h 55m 27s.xml">
+      <configuration name="ÖvnUppg8aTest.generateListFromFileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest_readInputDataInputMismatchExceptionTest - 2020.08.25 at 10h 05m 09s.xml">
-      <configuration name="Övninsuppgift6aTest.readInputDataInputMismatchExceptionTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8aTest_generateListFromFileTest - 2020.08.25 at 16h 55m 43s.xml">
+      <configuration name="ÖvnUppg8aTest.generateListFromFileTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 10h 07m 31s.xml">
-      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8aTest - 2020.08.25 at 17h 02m 54s.xml">
+      <configuration name="ÖvnUppg8aTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 10h 08m 04s.xml">
-      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8bTest - 2020.08.25 at 17h 09m 52s.xml">
+      <configuration name="ÖvnUppg8bTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 10h 09m 53s.xml">
-      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8bTest - 2020.08.25 at 17h 10m 33s.xml">
+      <configuration name="ÖvnUppg8bTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 11h 06m 38s.xml">
-      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
+    <history-entry file="ÖvnUppg8bTest - 2020.08.25 at 17h 11m 07s.xml">
+      <configuration name="ÖvnUppg8bTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34703000" />
+    <option name="totallyTimeSpent" value="39760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
@@ -437,7 +464,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23913044" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30869564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4456522" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -670,27 +697,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6b.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Övningsuppgift6b/Övningsuppgift6b.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -705,6 +715,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Övningsuppgift6b/Övningsuppgift6b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="29" column="73" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/temp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="49" column="70" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="49" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8aTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="51" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b_gammal_inteTDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg8/temp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#2280#2281#0" expanded="true" />
+            <element signature="e#2325#2326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="81" column="1" lean-forward="true" selection-start-line="8" selection-end-line="81" selection-end-column="1" />
+          <folding>
+            <element signature="e#2435#2436#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

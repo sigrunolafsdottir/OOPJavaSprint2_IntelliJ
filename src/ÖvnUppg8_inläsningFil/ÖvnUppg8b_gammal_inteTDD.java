@@ -1,18 +1,18 @@
-package övningsuppgift5;
+package ÖvnUppg8_inläsningFil;
 
 import java.io.File;
 import java.util.Scanner;
 
-public class Övningsuppgift5b {
-    
-    public Övningsuppgift5b () {
+public class ÖvnUppg8b_gammal_inteTDD {
+
+    public ÖvnUppg8b_gammal_inteTDD() {
         double temp;
         double tempSum = 0;
         int amountOfDays = 0;
         double maxTemp = -Double.MAX_VALUE;
         double minTemp = Double.MAX_VALUE;
         try{
-            Scanner sc = new Scanner(new File("src/övningsuppgift5/temp.txt"));
+            Scanner sc = new Scanner(new File("src/ÖvnUppg8_inläsningFil/temp.txt"));
             while(sc.hasNext()){
                 temp = sc.nextDouble();
                 if (temp > maxTemp) {
@@ -37,6 +37,6 @@ public class Övningsuppgift5b {
     
     
     public static void main(String[] args){
-        Övningsuppgift5b ö = new Övningsuppgift5b();
+        ÖvnUppg8b_gammal_inteTDD ö = new ÖvnUppg8b_gammal_inteTDD();
     }
 }
