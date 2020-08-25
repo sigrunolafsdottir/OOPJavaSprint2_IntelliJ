@@ -1,4 +1,4 @@
-package övningsuppgift3;
+package ÖvnUppg6_Växel;
 
 
 import java.util.InputMismatchException;
@@ -6,7 +6,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 
-public class Övningsuppgift3b {
+public class Övningsuppgift6b {
     
     private static StringBuilder sb = new StringBuilder();
     private static int[] sedlarOchMynt = {1000,500,200,100,50,20,10,5,2,1};

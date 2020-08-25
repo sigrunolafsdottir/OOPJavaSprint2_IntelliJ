@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/PathDemo/citat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/PathDemo/filnamn2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IntelliJ/PathDemo/testFil1" afterDir="false" />
@@ -72,10 +70,6 @@
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/Tåg.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/minaFordon.ser" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/Övningsuppgift11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift2/Övningsuppgift2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift2/Övningsuppgift2Bas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift3/Övningsuppgift3a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift3/Övningsuppgift3b.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift4/Övningsuppgift4a.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift4/Övningsuppgift4b.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift5/temp.txt" afterDir="false" />
@@ -101,8 +95,12 @@
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/TriangleTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg2_TDD/CarCalculatorTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift2/Övningsuppgift2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg5_exceptions/ÖvnUppg5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift2/Övningsuppgift2Bas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg5_exceptions/ÖvnUppg5_Bas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/ÖvnUppg6a_gammal_inteTDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6aTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift3/Övningsuppgift3a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift3/Övningsuppgift3b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6b.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,22 +129,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/övningsuppgift1/Övningsuppgift1.java">
+        <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6aTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="89">
+              <caret line="89" column="110" selection-start-line="89" selection-start-column="110" selection-end-line="89" selection-end-column="110" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6a.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="130">
+              <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -179,6 +177,9 @@
         <option value="$PROJECT_DIR$/test/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/ÖvnUppg2_TDD/CarCalculator.java" />
         <option value="$PROJECT_DIR$/test/ÖvnUppg2_TDD/CarCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6aOLD.java" />
+        <option value="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6a.java" />
+        <option value="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6aTest.java" />
       </list>
     </option>
   </component>
@@ -187,7 +188,9 @@
     <option name="width" value="1890" />
     <option name="height" value="1022" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -209,13 +212,13 @@
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg2_TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg4_scanner_bensinförbrukning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg5_exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg6_Växel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
@@ -226,14 +229,20 @@
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg2_TDD" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg1_TDD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg6_Växel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,6 +258,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ÖvnUppg6_Växel" />
       <recent name="ÖvnUppg4_scanner_bensinförbrukning" />
       <recent name="ÖvnUppg1_TDD" />
     </key>
@@ -265,13 +275,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CarCalculatorTest">
-    <configuration name="CarCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg2_TDD.CarCalculator" />
+  <component name="RunManager" selected="JUnit.Övninsuppgift6aTest">
+    <configuration name="Övningsuppgift6a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övningsuppgift6a" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg2_TDD.*" />
+          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,74 +289,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarCalculatorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övninsuppgift6aTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg4_scanner_bensinförbrukning.*" />
+          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg4_scanner_bensinförbrukning" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg4_scanner_bensinförbrukning.CarCalculatorTest" />
+      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6aTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övninsuppgift6aTest.getMyntOrSedelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg2_TDD.*" />
+          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg2_TDD" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg2_TDD.CarCalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarCalculatorTest.outputFormattingCorrectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg2_TDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg2_TDD" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg2_TDD.CarCalculatorTest" />
-      <option name="METHOD_NAME" value="outputFormattingCorrectTest" />
+      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6aTest" />
+      <option name="METHOD_NAME" value="getMyntOrSedelTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övninsuppgift6aTest.readInputDataInputMismatchExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg1_TDD.*" />
+          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg1_TDD" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg1_TDD.CircleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6aTest" />
+      <option name="METHOD_NAME" value="readInputDataInputMismatchExceptionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Övninsuppgift6aTest.readInputDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6aTest" />
+      <option name="METHOD_NAME" value="readInputDataTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CarCalculatorTest" />
-        <item itemvalue="JUnit.CarCalculatorTest (1)" />
-        <item itemvalue="Application.CarCalculator" />
-        <item itemvalue="JUnit.CarCalculatorTest.outputFormattingCorrectTest" />
-        <item itemvalue="JUnit.CircleTest" />
+        <item itemvalue="JUnit.Övninsuppgift6aTest" />
+        <item itemvalue="JUnit.Övninsuppgift6aTest.readInputDataInputMismatchExceptionTest" />
+        <item itemvalue="JUnit.Övninsuppgift6aTest.readInputDataTest" />
+        <item itemvalue="Application.Övningsuppgift6a" />
+        <item itemvalue="JUnit.Övninsuppgift6aTest.getMyntOrSedelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -371,49 +383,59 @@
       <workItem from="1597908194598" duration="855000" />
       <workItem from="1598011980906" duration="4409000" />
       <workItem from="1598028527678" duration="2199000" />
-      <workItem from="1598253713196" duration="9388000" />
+      <workItem from="1598253713196" duration="21773000" />
+      <workItem from="1598342181686" duration="795000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding övn uppg5">
+      <created>1598276344169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598276344170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CarCalculatorTest - 2020.08.24 at 11h 09m 24s.xml">
-      <configuration name="CarCalculatorTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 09h 10m 03s.xml">
+      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest_outputFormattingCorrectTest - 2020.08.24 at 11h 10m 08s.xml">
-      <configuration name="CarCalculatorTest.outputFormattingCorrectTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 09h 53m 10s.xml">
+      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest_outputFormattingCorrectTest - 2020.08.24 at 11h 10m 26s.xml">
-      <configuration name="CarCalculatorTest.outputFormattingCorrectTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest_readInputDataInputMismatchExceptionTest - 2020.08.25 at 09h 53m 42s.xml">
+      <configuration name="Övninsuppgift6aTest.readInputDataInputMismatchExceptionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest_outputFormattingCorrectTest - 2020.08.24 at 11h 11m 11s.xml">
-      <configuration name="CarCalculatorTest.outputFormattingCorrectTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 09h 54m 05s.xml">
+      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest_outputFormattingCorrectTest - 2020.08.24 at 11h 11m 52s.xml">
-      <configuration name="CarCalculatorTest.outputFormattingCorrectTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 09h 54m 35s.xml">
+      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest_outputFormattingCorrectTest - 2020.08.24 at 11h 12m 23s.xml">
-      <configuration name="CarCalculatorTest.outputFormattingCorrectTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest_readInputDataTest - 2020.08.25 at 10h 04m 01s.xml">
+      <configuration name="Övninsuppgift6aTest.readInputDataTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest_(1) - 2020.08.24 at 12h 57m 44s.xml">
-      <configuration name="CarCalculatorTest (1)" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest_readInputDataTest - 2020.08.25 at 10h 04m 17s.xml">
+      <configuration name="Övninsuppgift6aTest.readInputDataTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest - 2020.08.24 at 12h 58m 57s.xml">
-      <configuration name="CarCalculatorTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest_readInputDataInputMismatchExceptionTest - 2020.08.25 at 10h 05m 09s.xml">
+      <configuration name="Övninsuppgift6aTest.readInputDataInputMismatchExceptionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest_(1) - 2020.08.24 at 15h 03m 04s.xml">
-      <configuration name="CarCalculatorTest (1)" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 10h 07m 31s.xml">
+      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CarCalculatorTest - 2020.08.24 at 15h 03m 46s.xml">
-      <configuration name="CarCalculatorTest" configurationId="JUnit" />
+    <history-entry file="Övninsuppgift6aTest - 2020.08.25 at 10h 08m 04s.xml">
+      <configuration name="Övninsuppgift6aTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17153000" />
+    <option name="totallyTimeSpent" value="30333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1994302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19278252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -422,8 +444,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29347825" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2521739" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4456522" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -443,9 +465,44 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22507122" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13695653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.28478262" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32953465" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding övn uppg5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding övn uppg5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DateDemo/DateDemo.java">
@@ -478,16 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg1_TDD/CircleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -533,13 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2_TDD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2_TDD.java" />
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg1_TDD/TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
@@ -554,26 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_scanner_bensinförbrukning/CarCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-          <folding>
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1114#1115#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/övningsuppgift3/Övningsuppgift3a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg2_TDD/CarCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -585,16 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,6 +627,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/ÖvnUppg6a_gammal_inteTDD.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg1_TDD/CircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg4_scanner_bensinförbrukning/CarCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.7.0-RC1/junit-jupiter-api-5.7.0-RC1.jar!/org/junit/jupiter/api/function/Executable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6aTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="89" column="110" selection-start-line="89" selection-start-column="110" selection-end-line="89" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
