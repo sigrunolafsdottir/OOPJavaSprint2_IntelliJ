@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 
-public class ÖvnUppg6a_gammal_inteTDD {
+public class ÖvnUppg6_gammal_inteTDD {
     
     private static String s = new String();
     private static int[] sedlarOchMynt = {1000,500,200,100,50,20,10,5,2,1};
@@ -23,6 +23,10 @@ public class ÖvnUppg6a_gammal_inteTDD {
         }
         if (amountOfValör > 0){
            s += s.format("Antal %d-%s: %d\n",valör,pengatyp,amountOfValör);
+
+            //StringBuilder
+           // sb.append("Antal ").append(valör).append("-").append(pengatyp)
+           //         .append(": ").append(amountOfValör).append("\n");
         }
     }
     

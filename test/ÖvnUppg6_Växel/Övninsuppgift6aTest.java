@@ -14,6 +14,7 @@ public class Övninsuppgift6aTest {
 
     Övningsuppgift6a x = new Övningsuppgift6a();
 
+    // uppgift 3a
     @Test
     public final void getAmountOfValörTest(){
         int amount = 32;
@@ -22,6 +23,7 @@ public class Övninsuppgift6aTest {
         assertFalse(x.getAmountOfValör(amount,valörArrayCounter ) == 5);
     }
 
+    // uppgift 3a
     @Test
     public final void removeLargestValörTest(){
         int amount = 32;
@@ -30,6 +32,7 @@ public class Övninsuppgift6aTest {
         assertFalse(x.removeLargestValör(amount,valörArrayCounter ) == 5);
     }
 
+    // uppgift 3a
     @Test
     public final void getChangeTest(){
         int price = 234;
@@ -38,6 +41,7 @@ public class Övninsuppgift6aTest {
         assertFalse(x.getChange(price, amountPayed) == 765);
     }
 
+    // uppgift 3b
     @Test
     public final void getMyntOrSedelTest(){
         int amount1 = 1;
@@ -64,6 +68,7 @@ public class Övninsuppgift6aTest {
         assertFalse(x.getMyntOrSedel(amount1000).equals("spaghetti"));
     }
 
+    // uppgift 3b
     @Test
     public final void getPrintOutTest(){
         assertTrue(x.getStringForOneValör(5, 0).startsWith("Antal 1000-lappar: 5"));
@@ -72,6 +77,7 @@ public class Övninsuppgift6aTest {
         assertTrue(x.getStringForOneValör(0, 9).startsWith("Antal 1-kronor: 0"));
     }
 
+    // uppgift 3b
     @Test
     public final void errorHandlingTest(){
         int zero = 0;
@@ -83,13 +89,16 @@ public class Övninsuppgift6aTest {
     }
 
 
+    // uppgift 3d
     @Test
     public final void readInputDataInputMismatchExceptionTest(){
         x.test = true;
         String error = "sfsfdsfs";
-        Throwable exception = assertThrows(NoSuchElementException.class, () -> x.readInputData("Hej", error));
+        Throwable exception = assertThrows(NoSuchElementException.class,
+                () -> x.readInputData("Hej", error));
     }
 
+    // uppgift 3d
     @Test
     public final void readInputDataTest(){
         x.test = true;
