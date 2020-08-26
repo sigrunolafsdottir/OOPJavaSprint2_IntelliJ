@@ -12,7 +12,7 @@ public class ÖvnUppg8a {
     final String tempPath = "src/ÖvnUppg8_inläsningFil/temp.txt";
 
 
-    public Double readDoubleValue(String val){
+    public Double parseDoubleValue(String val){
         Double temp;
         val.trim();
         String replaced = val.replaceAll(",", ".");
@@ -22,12 +22,12 @@ public class ÖvnUppg8a {
 
     public List<Double> generateListFromFile(String tempPath){
         List<Double> allMeasurements = new ArrayList<>();
-        try {
-            BufferedReader reader = new BufferedReader(
-                    new FileReader(tempPath));
+        try (BufferedReader reader = new BufferedReader(
+                new FileReader(tempPath));) {
+
             while ((tempLine = reader.readLine()) != null) {
 
-                Double temp = readDoubleValue(tempLine);
+                Double temp = parseDoubleValue(tempLine);
                 allMeasurements.add(temp);
             }
         }

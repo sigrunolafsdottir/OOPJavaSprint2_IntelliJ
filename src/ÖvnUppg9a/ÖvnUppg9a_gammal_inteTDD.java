@@ -1,4 +1,4 @@
-package övningsuppgift6;
+package ÖvnUppg9a;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -8,12 +8,12 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class Övningsuppgift6 {
+public class ÖvnUppg9a_gammal_inteTDD {
     
     //Kräver filer som finns. 
     //Ligger de i samma katalog måste de skrivas enligt src\\PathDemo\\filnamn
 
-    public Övningsuppgift6 () {
+    public ÖvnUppg9a_gammal_inteTDD() {
        
         String firstLine;
         String secondLine;
@@ -64,6 +64,6 @@ public class Övningsuppgift6 {
     }
     
     public static void main(String[] args){
-        Övningsuppgift6 ö = new Övningsuppgift6();
+        ÖvnUppg9a_gammal_inteTDD ö = new ÖvnUppg9a_gammal_inteTDD();
     }
 }

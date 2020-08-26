@@ -1,4 +1,4 @@
-package Övningsuppgift6b;
+package ÖvnUppg9b;
 
 
 public class Person {

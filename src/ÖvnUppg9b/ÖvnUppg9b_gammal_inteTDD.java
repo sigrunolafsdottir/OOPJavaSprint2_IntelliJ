@@ -1,11 +1,11 @@
-package Övningsuppgift6b;
+package ÖvnUppg9b;
 
 import java.util.List;
 
 
-public class Övningsuppgift6b {
+public class ÖvnUppg9b_gammal_inteTDD {
 
-    public Övningsuppgift6b () {
+    public ÖvnUppg9b_gammal_inteTDD() {
        
         String filePath = "src\\Övningsuppgift6b\\"
                 + "Personuppgifter.txt";
@@ -24,6 +24,6 @@ public class Övningsuppgift6b {
     }
     
     public static void main(String[] args){
-        Övningsuppgift6b ö = new Övningsuppgift6b();
+        ÖvnUppg9b_gammal_inteTDD ö = new ÖvnUppg9b_gammal_inteTDD();
     }
 }

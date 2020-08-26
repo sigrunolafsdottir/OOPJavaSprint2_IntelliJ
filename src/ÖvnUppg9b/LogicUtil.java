@@ -1,4 +1,4 @@
-package Övningsuppgift6b;
+package ÖvnUppg9b;
 
 import java.util.ArrayList;
 import java.util.List;

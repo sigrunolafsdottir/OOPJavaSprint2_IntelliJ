@@ -1,4 +1,4 @@
-package Övningsuppgift6b;
+package ÖvnUppg9b;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

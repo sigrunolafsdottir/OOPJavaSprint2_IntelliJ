@@ -21,10 +21,10 @@ public class ÖvnUppg8aTest {
     ÖvnUppg8a x = new ÖvnUppg8a();
 
     @Test
-    public final void readDoubleValueTest(){
+    public final void parseDoubleValueTest(){
         String val = "34,6";
-        assertTrue(x.readDoubleValue(val) == 34.6);
-        assertFalse(x.readDoubleValue(val) == 34.4);
+        assertTrue(x.parseDoubleValue(val) == 34.6);
+        assertFalse(x.parseDoubleValue(val) == 34.4);
     }
 
     @Test
