@@ -1,13 +1,13 @@
-package övningsuppgift10;
+package ÖvnUppg11_videobandspelare;
 
 import java.time.Duration;
 import java.time.LocalTime;
 import java.util.Scanner;
 
 
-public class Övningsuppgift10 {
+public class Övningsuppgift11 {
     
-    public Övningsuppgift10(){
+    public Övningsuppgift11(){
         Videotape vt;
         try{
             Scanner sc = new Scanner(System.in);
@@ -37,6 +37,6 @@ public class Övningsuppgift10 {
     }
     
     public static void main(String[] args) {
-        Övningsuppgift10 ö = new Övningsuppgift10();
+        Övningsuppgift11 ö = new Övningsuppgift11();
     }
 }

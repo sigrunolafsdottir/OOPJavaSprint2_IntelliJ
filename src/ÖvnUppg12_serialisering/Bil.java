@@ -1,4 +1,4 @@
-package övningsuppgift11;
+package ÖvnUppg12_serialisering;
 
 public class Bil extends Fordon implements Printable{
     private int motoreffekt;

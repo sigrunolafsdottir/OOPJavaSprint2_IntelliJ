@@ -1,4 +1,4 @@
-package övningsuppgift11;
+package ÖvnUppg12_serialisering;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

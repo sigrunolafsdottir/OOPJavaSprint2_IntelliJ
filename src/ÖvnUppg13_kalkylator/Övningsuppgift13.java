@@ -1,4 +1,4 @@
-package övningsuppgift8;
+package ÖvnUppg13_kalkylator;
 
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
@@ -6,9 +6,9 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 
-public class Övningsuppgift8 {
+public class Övningsuppgift13 {
     
-    public Övningsuppgift8(){
+    public Övningsuppgift13(){
         Calculator calculator = new Calculator();
         double firstNumber;
         double secondNumber;
@@ -46,7 +46,7 @@ public class Övningsuppgift8 {
     }
     
     public static void main(String[] args){
-        Övningsuppgift8 ö = new Övningsuppgift8();
+        Övningsuppgift13 ö = new Övningsuppgift13();
         
     }
     

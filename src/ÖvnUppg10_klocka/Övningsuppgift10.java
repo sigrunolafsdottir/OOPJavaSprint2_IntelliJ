@@ -1,12 +1,12 @@
-package övningsuppgift9;
+package ÖvnUppg10_klocka;
 
 import javax.swing.JOptionPane;
 
-public class Övningsuppgift9 {
+public class Övningsuppgift10 {
     
     DateProvider dp = new DateProvider();
 
-    public Övningsuppgift9(){
+    public Övningsuppgift10(){
         String vilkenStad = JOptionPane.showInputDialog("Vilken stad vill du veta tiden för?");
         boolean giltigStad = false;
         if(vilkenStad.toUpperCase().trim().equals("STOCKHOLM")){
@@ -24,7 +24,7 @@ public class Övningsuppgift9 {
     
 
     public static void main(String[] args) {
-        Övningsuppgift9 ö = new Övningsuppgift9();
+        Övningsuppgift10 ö = new Övningsuppgift10();
     }
     
 }

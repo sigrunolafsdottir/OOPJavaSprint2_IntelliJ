@@ -1,7 +1,6 @@
-package övningsuppgift9;
+package ÖvnUppg10_klocka;
 
 import java.time.Instant;
-import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;

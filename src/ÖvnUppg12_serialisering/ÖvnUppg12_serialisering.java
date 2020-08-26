@@ -1,20 +1,17 @@
- package övningsuppgift11;
+ package ÖvnUppg12_serialisering;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class Övningsuppgift11 {
+public class ÖvnUppg12_serialisering {
     
     public void printList(List<Fordon> fordon){
         fordon.forEach(f -> f.printMe());
     }
     
     
-    Övningsuppgift11(){
+    ÖvnUppg12_serialisering(){
         SerializationManager sm = new SerializationManager();
         
         Tåg tåg = new Tåg(180, 300000, 5);
@@ -40,7 +37,7 @@ public class Övningsuppgift11 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Övningsuppgift11 övn11 = new Övningsuppgift11();
+        ÖvnUppg12_serialisering övn11 = new ÖvnUppg12_serialisering();
     }
     
 }

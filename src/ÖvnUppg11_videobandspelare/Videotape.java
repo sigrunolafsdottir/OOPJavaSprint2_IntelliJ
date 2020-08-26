@@ -1,4 +1,4 @@
-package övningsuppgift10;
+package ÖvnUppg11_videobandspelare;
 
 import java.time.Duration;
 

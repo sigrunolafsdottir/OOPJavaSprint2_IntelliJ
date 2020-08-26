@@ -66,6 +66,7 @@
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/Person.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/Personuppgifter.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/TallPeopleInformation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/ÖvnUppg9b.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/ÖvnUppg9b_gammal_inteTDD.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift1/Övningsuppgift1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift10/Videotape.class" afterDir="false" />
@@ -79,17 +80,6 @@
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/Tåg.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/minaFordon.ser" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift11/Övningsuppgift11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift7/Cirkel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift7/Figur.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift7/LikbentTriangel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift7/Punkt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift7/Rektangel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift7/Övningsuppgift7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift8/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift8/OperatorNotSupportedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift8/Övningsuppgift8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift9/DateProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift9/Övningsuppgift9.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/META-INF/Sprint2.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/CircleTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/SquareTest.class" afterDir="false" />
@@ -105,22 +95,30 @@
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/Personuppgifter_oneTallGuy.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/TallPeopleInformation.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/ÖvnUppg9aTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg9b/ÖvnUppg9b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/IOUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/LogicUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/ÖvnUppg9bTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/IOUtilTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/LogicUtilTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/ÖvnUppg9bTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg10_klocka/Övningsuppgift10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg10_klocka/DateProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/IOtest.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ÖvnUppg9a/IOtest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/IOtest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Övningsuppgift6b/Personuppgifter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ/Övningsuppgift6b/Personuppgifter.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Övningsuppgift6b/TallPeopleInformation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ/Övningsuppgift6b/TallPeopleInformation.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/övningsuppgift5/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift5/temp.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/övningsuppgift6/Personuppgifter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/Personuppgifter.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/övningsuppgift6/TallPeopleInformation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/TallPeopleInformation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg9a/TallPeopleInformation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg9a/TallPeopleInformation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift7/Cirkel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift7/Figur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift7/LikbentTriangel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift7/Punkt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift7/Rektangel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift7/Övningsuppgift7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift8/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg13_kalkylator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift8/OperatorNotSupportedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg13_kalkylator/OperatorNotSupportedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift8/Övningsuppgift8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg13_kalkylator/Övningsuppgift8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift9/DateProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg10_klocka/DateProvider.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,13 +150,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/ÖvnUppg9b/ÖvnUppg9bTest.java">
+        <entry file="file://$PROJECT_DIR$/test/ÖvnUppg10_klocka/DateProviderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -218,6 +213,8 @@
         <option value="$PROJECT_DIR$/test/ÖvnUppg9b/LogicUtilTest.java" />
         <option value="$PROJECT_DIR$/test/ÖvnUppg9b/IOUtilTest.java" />
         <option value="$PROJECT_DIR$/test/ÖvnUppg9b/ÖvnUppg9bTest.java" />
+        <option value="$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/test/ÖvnUppg10_klocka/DateProviderTest.java" />
       </list>
     </option>
   </component>
@@ -250,7 +247,13 @@
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg9b" type="462c0819:PsiDirectoryNode" />
+              <item name="övningsuppgift10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg10_klocka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
@@ -261,13 +264,7 @@
               <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg9a" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ÖvnUppg9b" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg10_klocka" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,7 +282,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/ÖvnUppg9b" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/ÖvnUppg11_videobandspelare" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -298,6 +295,8 @@
       <recent name="ÖvnUppg6_Växel" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg10_klocka" />
+      <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg13_kalkylator" />
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg9b" />
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg9a" />
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg8" />
@@ -315,7 +314,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IOUtilTest">
+  <component name="RunManager" selected="JUnit.VideotapeTest">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg13_kalkylator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ÖvnUppg13_kalkylator" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg13_kalkylator.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateProviderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg10_klocka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ÖvnUppg10_klocka" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg10_klocka.DateProviderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IOUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
@@ -346,59 +375,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VideotapeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg9b.*" />
+          <option name="PATTERN" value="ÖvnUppg11_videobandspelare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg9b" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg9b.PersonTest" />
+      <option name="PACKAGE_NAME" value="ÖvnUppg11_videobandspelare" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg11_videobandspelare.VideotapeTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ÖvnUppg9aTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg9a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg9a" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg9a.ÖvnUppg9aTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ÖvnUppg9aTest.readAllLinesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg9a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg9a" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg9a.ÖvnUppg9aTest" />
-      <option name="METHOD_NAME" value="readAllLinesTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VideotapeTest" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.DateProviderTest" />
         <item itemvalue="JUnit.IOUtilTest" />
         <item itemvalue="JUnit.LogicUtilTest" />
-        <item itemvalue="JUnit.PersonTest" />
-        <item itemvalue="JUnit.ÖvnUppg9aTest.readAllLinesTest" />
-        <item itemvalue="JUnit.ÖvnUppg9aTest" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +422,7 @@
       <workItem from="1598011980906" duration="4409000" />
       <workItem from="1598028527678" duration="2199000" />
       <workItem from="1598253713196" duration="21773000" />
-      <workItem from="1598342181686" duration="19215000" />
+      <workItem from="1598342181686" duration="20404000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -468,16 +466,17 @@
       <option name="project" value="LOCAL" />
       <updated>1598440424887</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Uppgift 9b, läsa in långa personer">
+      <created>1598442797715</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598442797715</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ÖvnUppg9aTest_readTwoLinesWriteToFileIfTallTest - 2020.08.26 at 11h 22m 11s.xml">
-      <configuration name="ÖvnUppg9aTest.readTwoLinesWriteToFileIfTallTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ÖvnUppg9aTest - 2020.08.26 at 11h 25m 47s.xml">
-      <configuration name="ÖvnUppg9aTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ÖvnUppg9aTest - 2020.08.26 at 11h 26m 19s.xml">
       <configuration name="ÖvnUppg9aTest" configurationId="JUnit" />
     </history-entry>
@@ -502,9 +501,15 @@
     <history-entry file="IOUtilTest - 2020.08.26 at 13h 51m 41s.xml">
       <configuration name="IOUtilTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculatorTest - 2020.08.26 at 14h 09m 57s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateProviderTest - 2020.08.26 at 14h 11m 40s.xml">
+      <configuration name="DateProviderTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48753000" />
+    <option name="totallyTimeSpent" value="49942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
@@ -519,7 +524,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50143266" side_tool="true" weight="0.2345679" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36086956" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29347825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16304348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,26 +586,10 @@
     <MESSAGE value="Växel-uppgiften, förbättringar" />
     <MESSAGE value="läsa in temp" />
     <MESSAGE value="Uppgift 9, läsa in långa personer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 9, läsa in långa personer" />
+    <MESSAGE value="Uppgift 9b, läsa in långa personer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 9b, läsa in långa personer" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg1_TDD/SquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ÖvnUppg1_TDD/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg2_TDD.java" />
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg1_TDD/TriangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -641,13 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/övningsuppgift1/Övningsuppgift1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -947,6 +929,27 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/övningsuppgift1/Övningsuppgift1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg10_klocka/DateProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
