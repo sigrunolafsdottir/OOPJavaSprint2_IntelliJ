@@ -2,111 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/DateDemo/DateDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ExceptionDemo/ExceptionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ExceptionDemo/TestException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ExceptionDemo/TestExceptionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/HärmApaLive/HärmApaLive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/JOptionDemo/JOptionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/LocaleDemo/LocaleDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/Miniprogram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/PathDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/citat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/filnamn2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/testFil1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ScannerDemo/ScannerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ScannerDemo/ScannerDemoNoExceptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/AnotherFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/Luka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/SomeFileThatDoesNotExist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/StreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/TryWithResourcesDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StringDemo/StringBuilderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StringDemo/StringDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/TDDCalculator/TDDCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/TDDDemo/CalculatorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/VideoDemo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/VideoDemo/Video.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/VideoDemo/VideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övn10Live/TimeProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övn9Live2/DateProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övn9Live2/Övn9Live2Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg10_klocka/DateProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg10_klocka/Övningsuppgift10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg11_videobandspelare/Videotape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg11_videobandspelare/Övningsuppgift11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg13_kalkylator/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg13_kalkylator/OperatorNotSupportedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg13_kalkylator/Övningsuppgift13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Figure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg2_TDD/CarCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg3_härmapa/Övning0_HärmapaScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg4_scanner_bensinförbrukning/CarCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg5_exceptions/ÖvnUppg5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg5_exceptions/ÖvnUppg5_Bas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg6_Växel/ÖvnUppg6_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg6_Växel/Övningsuppgift6abcd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest_Recursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8b_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/ÖvnUppg9a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/ÖvnUppg9a_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/IOUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/LogicUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/ÖvnUppg9b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/ÖvnUppg9b_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift1/Övningsuppgift1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/META-INF/Sprint2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg10_klocka/DateProviderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg11_videobandspelare/VideotapeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg13_kalkylator/CalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/CircleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/SquareTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/TriangleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg2_TDD/CarCalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/ÖvnUppg8aTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/ÖvnUppg8bTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/Personuppgifter_oneShortGuy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/Personuppgifter_oneTallGuy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/ÖvnUppg9aTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/IOUtilTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/LogicUtilTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/PersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/ÖvnUppg9bTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarCalcLive/CarCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CarCalcLiveTest/CarCalcTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ/Övningsuppgift6b/Personuppgifter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ/Övningsuppgift6b/TallPeopleInformation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift11/minaFordon.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift5/temp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/IOtest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/Personuppgifter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ/övningsuppgift6/TallPeopleInformation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionDemo/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionDemo/ExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionDemo/TestExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionDemo/TestExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringDemo/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringDemo/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg3_härmapa/Övning0_HärmapaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg3_härmapa/Övning0_HärmapaScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg9a/IOtest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övningsuppgift6b/Personuppgifter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övningsuppgift6b/TallPeopleInformation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift11/minaFordon.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift5/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift6/Personuppgifter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/övningsuppgift6/TallPeopleInformation.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,8 +44,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="175">
+              <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="88" lean-forward="true" selection-end-line="109" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -273,6 +189,12 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="ÖvnUppg2_TDD" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ÖvnUppg6_Växel" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -320,19 +242,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.Övninsuppgift6abcdTest">
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionDemo.ExceptionDemo" />
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExceptionDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringDemo.StringBuilderDemo" />
       <module name="Sprint2" />
@@ -372,6 +281,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Övningsuppgift6abcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övningsuppgift6abcd" />
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Övninsuppgift6abcdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
@@ -390,10 +312,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Övninsuppgift6abcdTest" />
+        <item itemvalue="Application.Övningsuppgift6abcd" />
         <item itemvalue="Application.StringBuilderDemo" />
         <item itemvalue="Application.StringDemo" />
         <item itemvalue="Application.TestExceptionDemo" />
-        <item itemvalue="Application.ExceptionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +343,7 @@
       <workItem from="1598253713196" duration="21773000" />
       <workItem from="1598342181686" duration="21268000" />
       <workItem from="1598860781825" duration="664000" />
-      <workItem from="1602003299474" duration="12971000" />
+      <workItem from="1602003299474" duration="13502000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -479,13 +401,17 @@
       <option name="project" value="LOCAL" />
       <updated>1598444201968</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cleanup">
+      <created>1602071207857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602071207857</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CarCalcTest_calculateMätarDiff - 2020.10.07 at 08h 38m 39s.xml">
-      <configuration name="CarCalcTest.calculateMätarDiff" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CarCalcTest_calculateGasUsagePerMile - 2020.10.07 at 08h 45m 48s.xml">
       <configuration name="CarCalcTest.calculateGasUsagePerMile" configurationId="JUnit" />
     </history-entry>
@@ -513,15 +439,18 @@
     <history-entry file="CarCalcTest - 2020.10.07 at 09h 07m 28s.xml">
       <configuration name="CarCalcTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Övninsuppgift6abcdTest - 2020.10.07 at 13h 44m 53s.xml">
+      <configuration name="Övninsuppgift6abcdTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64441000" />
+    <option name="totallyTimeSpent" value="64972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.24406458" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.24406458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -531,7 +460,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27608696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22608696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16304348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -602,16 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="29" column="73" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -973,10 +892,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="88" lean-forward="true" selection-end-line="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="175">
+          <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
         </state>
       </provider>
     </entry>

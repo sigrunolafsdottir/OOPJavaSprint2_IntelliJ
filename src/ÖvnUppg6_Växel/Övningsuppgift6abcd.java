@@ -53,7 +53,7 @@ public class Övningsuppgift6abcd {
 
     //Loopar över alla valörer, anropar strängkonstruktions-funktionen ovan
     //Skriver ut strängen, tar bort den valör som har skrivits ut så vi kan fortsätta med nästa
-    public void getPrintOutAllLines(int change, int amountPayed){
+    public void getPrintOutAllLines(int change){
         for(int i= 0; i < sedlarOchMynt.length; i++){
             int amountOfValör = getAmountOfValör(change, i);
             String printOutForOneValör = getStringForOneValör(amountOfValör, i);
@@ -113,7 +113,7 @@ public class Övningsuppgift6abcd {
         }
 
         System.out.println("Detta ska du få tillbaka:");
-        getPrintOutAllLines(change,amount);
+        getPrintOutAllLines(change);
     }
 
     public static void main(String[] args) {
