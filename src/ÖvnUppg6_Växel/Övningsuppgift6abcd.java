@@ -16,14 +16,15 @@ public class Övningsuppgift6abcd {
 
 
     //räknar ut hur många ex av en vissa valör som ska finnas i växeln
-    public int getAmountOfValör(int change, int valörArrayCounter ){
-        return change / sedlarOchMynt[valörArrayCounter];
+    public int getAmountOfValör(int change, int valör ){
+        return change / valör;
     }
 
     //tar bort den största valören från växeln efter att den har skrivits ut
     //ex: 654 -> 54
-    public int removeLargestValör(int amount, int valörArrayCounter){
-        return amount - (getAmountOfValör(amount, valörArrayCounter ) * sedlarOchMynt[valörArrayCounter]) ;
+    public int removeLargestValör(int amount, int valör, int amoutOfValör){
+        //return amount - (getAmountOfValör(amount, valör ) * valör) ;
+        return amount - amoutOfValör * valör ;
     }
 
     //Räknar ut växeln utifrån pris och betald summa
@@ -38,15 +39,15 @@ public class Övningsuppgift6abcd {
     }
 
     //Ger oss en sträng typ "Antal 50-lappar: 1"
-    public String getStringForOneValör(int amountOfValör, int valörArrayCounter){
+    public String getStringForOneValör(int amountOfValör, int valör){
         //använder en vanlig String som jag konkaternerar ihop
         //return "Antal "+sedlarOchMynt[valörArrayCounter]+"-"
         //        +getMyntOrSedel(sedlarOchMynt[valörArrayCounter])+": "+amountOfValör;
 
         //StringBuider, uppg 3c
         StringBuilder sb = new StringBuilder("Antal ");
-        sb.append(sedlarOchMynt[valörArrayCounter]).append("-");
-        sb.append(getMyntOrSedel(sedlarOchMynt[valörArrayCounter]));
+        sb.append(valör).append("-");
+        sb.append(getMyntOrSedel(valör));
         sb.append(": ").append(amountOfValör);
         return sb.toString();
     }
@@ -55,9 +56,10 @@ public class Övningsuppgift6abcd {
     //Skriver ut strängen, tar bort den valör som har skrivits ut så vi kan fortsätta med nästa
     public void getPrintOutAllLines(int change){
         for(int i= 0; i < sedlarOchMynt.length; i++){
-            int amountOfValör = getAmountOfValör(change, i);
-            System.out.println(getStringForOneValör(amountOfValör, i));
-            change = removeLargestValör(change, i);
+            int valör = sedlarOchMynt[i];
+            int amountOfValör = getAmountOfValör(change, valör);
+            System.out.println(getStringForOneValör(amountOfValör, valör));
+            change = removeLargestValör(change, valör, amountOfValör);
         }
     }
 

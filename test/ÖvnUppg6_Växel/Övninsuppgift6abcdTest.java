@@ -14,21 +14,23 @@ public class Övninsuppgift6abcdTest {
     Övningsuppgift6abcd x = new Övningsuppgift6abcd();
 
     // uppgift 3a
+
     @Test
     public final void getAmountOfValörTest(){
-        int amount = 32;
-        int valörArrayCounter = 6;
-        assertTrue(x.getAmountOfValör(amount,valörArrayCounter ) == 3);
-        assertFalse(x.getAmountOfValör(amount,valörArrayCounter ) == 5);
+        int change = 32;
+        int valör = 10;
+        assertTrue(x.getAmountOfValör(change,valör ) == 3);
+        assertFalse(x.getAmountOfValör(change,valör ) == 5);
     }
 
     // uppgift 3a
+
     @Test
     public final void removeLargestValörTest(){
         int amount = 32;
-        int valörArrayCounter = 6;
-        assertTrue(x.removeLargestValör(amount,valörArrayCounter ) == 2);
-        assertFalse(x.removeLargestValör(amount,valörArrayCounter ) == 5);
+        int valör = 10;
+        assertTrue(x.removeLargestValör(amount,valör, 3) == 2);
+        assertFalse(x.removeLargestValör(amount,valör, 2 ) == 5);
     }
 
     // uppgift 3a
@@ -68,12 +70,13 @@ public class Övninsuppgift6abcdTest {
     }
 
     // uppgift 3b
+
     @Test
     public final void getPrintOutTest(){
-        assertTrue(x.getStringForOneValör(5, 0).startsWith("Antal 1000-lappar: 5"));
-        assertTrue(x.getStringForOneValör(3, 1).startsWith("Antal 500-lappar: 3"));
-        assertTrue(x.getStringForOneValör(2, 7).startsWith("Antal 5-kronor: 2"));
-        assertTrue(x.getStringForOneValör(0, 9).startsWith("Antal 1-kronor: 0"));
+        assertTrue(x.getStringForOneValör(5, 1000).startsWith("Antal 1000-lappar: 5"));
+        assertTrue(x.getStringForOneValör(3, 500).startsWith("Antal 500-lappar: 3"));
+        assertTrue(x.getStringForOneValör(2, 5).startsWith("Antal 5-kronor: 2"));
+        assertTrue(x.getStringForOneValör(0, 1).startsWith("Antal 1-kronor: 0"));
     }
 
     // uppgift 3b
