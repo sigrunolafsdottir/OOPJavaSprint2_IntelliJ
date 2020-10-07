@@ -6,7 +6,7 @@ public class TestExceptionDemo {
     }  
 
     void firstMethod()throws TestException{  
-        throw new TestException();
+        throw new TestException("Error in firstMethod");
          //   method();
     }
     
@@ -17,10 +17,15 @@ public class TestExceptionDemo {
             obj.firstMethod(); 
             System.out.println("Stuff in try clause");
         }
+        catch (TestException t){
+            System.out.println("Caught TestException in main");
+            System.out.println(  t.s);
+        }
         catch (Exception ae){
-            if( ae instanceof TestException){
-                
-            }
+           // if( ae instanceof TestException){
+           //     System.out.println("Caught TestException in main");
+           //     System.out.println( ((TestException) ae).s);
+           // }
             
             ae.printStackTrace();
             System.out.println("Catch");
