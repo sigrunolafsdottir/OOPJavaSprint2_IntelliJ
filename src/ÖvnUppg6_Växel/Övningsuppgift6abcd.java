@@ -56,8 +56,7 @@ public class Övningsuppgift6abcd {
     public void getPrintOutAllLines(int change){
         for(int i= 0; i < sedlarOchMynt.length; i++){
             int amountOfValör = getAmountOfValör(change, i);
-            String printOutForOneValör = getStringForOneValör(amountOfValör, i);
-            System.out.println(printOutForOneValör);
+            System.out.println(getStringForOneValör(amountOfValör, i));
             change = removeLargestValör(change, i);
         }
     }

@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="">
+    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="cleanup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg9a/IOtest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Övningsuppgift6b/Personuppgifter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Övningsuppgift6b/TallPeopleInformation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift11/minaFordon.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift5/temp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift6/Personuppgifter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/övningsuppgift6/TallPeopleInformation.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
+            <state relative-caret-position="73">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -53,11 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="88" lean-forward="true" selection-end-line="109" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -343,7 +333,7 @@
       <workItem from="1598253713196" duration="21773000" />
       <workItem from="1598342181686" duration="21268000" />
       <workItem from="1598860781825" duration="664000" />
-      <workItem from="1602003299474" duration="13502000" />
+      <workItem from="1602003299474" duration="13796000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -408,16 +398,17 @@
       <option name="project" value="LOCAL" />
       <updated>1602071207857</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cleanup">
+      <created>1602071706469</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602071706469</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CarCalcTest_calculateGasUsagePerMile - 2020.10.07 at 08h 45m 48s.xml">
-      <configuration name="CarCalcTest.calculateGasUsagePerMile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CarCalcTest_calculateGasUsagePerMile - 2020.10.07 at 08h 53m 01s.xml">
-      <configuration name="CarCalcTest.calculateGasUsagePerMile" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CarCalcTest_testPrintout - 2020.10.07 at 09h 00m 58s.xml">
       <configuration name="CarCalcTest.testPrintout" configurationId="JUnit" />
     </history-entry>
@@ -442,9 +433,15 @@
     <history-entry file="Övninsuppgift6abcdTest - 2020.10.07 at 13h 44m 53s.xml">
       <configuration name="Övninsuppgift6abcdTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Övninsuppgift6abcdTest - 2020.10.07 at 13h 54m 14s.xml">
+      <configuration name="Övninsuppgift6abcdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Övninsuppgift6abcdTest - 2020.10.07 at 13h 57m 52s.xml">
+      <configuration name="Övninsuppgift6abcdTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64972000" />
+    <option name="totallyTimeSpent" value="65266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
@@ -460,7 +457,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22608696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4304348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16304348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -894,18 +891,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="88" lean-forward="true" selection-end-line="109" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="115" column="34" selection-start-line="115" selection-start-column="34" selection-end-line="115" selection-end-column="34" />
+        <state relative-caret-position="73">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
         </state>
       </provider>
     </entry>
