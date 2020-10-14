@@ -18,7 +18,7 @@ public class Övningsuppgift10 {
         else if(vilkenStad.toUpperCase().trim().equals("TORONTO")){           
             System.out.println(dp.getMessage("Toronto"));
         }
-        else dp.getErrorMessage();
+        else System.out.println(dp.getErrorMessage());
     }
     
     

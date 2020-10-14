@@ -26,7 +26,7 @@ public class ÖvnUppg12_serialisering {
         fordonsLista.add(cykel);
         
         sm.serializeList(fordonsLista, 
-                "src/övningsuppgift11/minaFordon.ser");
+                "src/ÖvnUppg12_serialisering/minaFordon.ser");
         
         List<Fordon> f = sm.deSerializeList();
         printList(f);

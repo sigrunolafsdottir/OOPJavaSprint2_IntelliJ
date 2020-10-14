@@ -26,7 +26,7 @@ public class SerializationManager {
     
     public List<Fordon> deSerializeList(){
         List<Fordon> list = new ArrayList<Fordon>();
-        try (FileInputStream fileIn = new FileInputStream("src/övningsuppgift11/minaFordon.ser");
+        try (FileInputStream fileIn = new FileInputStream("src/ÖvnUppg12_serialisering/minaFordon.ser");
             ObjectInputStream in = new ObjectInputStream(fileIn);) {
             
             list = (List<Fordon>) in.readObject();

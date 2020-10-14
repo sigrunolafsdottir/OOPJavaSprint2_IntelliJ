@@ -28,10 +28,10 @@ public class ÖvnUppg9a {
         String secondLine = "";
         if(sc.hasNext()){
             firstLine = sc.nextLine();
-            System.out.println(firstLine);
+            //System.out.println(firstLine);
             if (sc.hasNext()){
                 secondLine = sc.nextLine();
-                System.out.println(secondLine);
+                //System.out.println(secondLine);
 
                 int length = getLength(secondLine);
                 boolean tall = isMoreThanTwoMeter(length);

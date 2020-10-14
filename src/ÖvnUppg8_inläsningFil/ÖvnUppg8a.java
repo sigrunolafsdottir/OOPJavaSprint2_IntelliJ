@@ -26,7 +26,6 @@ public class ÖvnUppg8a {
                 new FileReader(tempPath));) {
 
             while ((tempLine = reader.readLine()) != null) {
-
                 Double temp = parseDoubleValue(tempLine);
                 allMeasurements.add(temp);
             }

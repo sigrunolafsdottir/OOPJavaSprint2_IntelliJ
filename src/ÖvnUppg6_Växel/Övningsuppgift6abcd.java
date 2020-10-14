@@ -41,15 +41,15 @@ public class Övningsuppgift6abcd {
     //Ger oss en sträng typ "Antal 50-lappar: 1"
     public String getStringForOneValör(int amountOfValör, int valör){
         //använder en vanlig String som jag konkaternerar ihop
-        //return "Antal "+sedlarOchMynt[valörArrayCounter]+"-"
-        //        +getMyntOrSedel(sedlarOchMynt[valörArrayCounter])+": "+amountOfValör;
+        return "Antal "+valör+"-"
+                +getMyntOrSedel(valör)+": "+amountOfValör;
 
         //StringBuider, uppg 3c
-        StringBuilder sb = new StringBuilder("Antal ");
+ /*       StringBuilder sb = new StringBuilder("Antal ");
         sb.append(valör).append("-");
         sb.append(getMyntOrSedel(valör));
         sb.append(": ").append(amountOfValör);
-        return sb.toString();
+        return sb.toString(); */
     }
 
     //Loopar över alla valörer, anropar strängkonstruktions-funktionen ovan

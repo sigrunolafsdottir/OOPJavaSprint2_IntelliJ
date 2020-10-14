@@ -60,7 +60,7 @@ public class IOUtil {
                 w.print(p.getName() + "\n");
             }
         }
-        catch (FileNotFoundException e){
+       catch (FileNotFoundException e){
             System.out.println("Filen kunde inte hittas");
             e.printStackTrace();
             System.exit(0);

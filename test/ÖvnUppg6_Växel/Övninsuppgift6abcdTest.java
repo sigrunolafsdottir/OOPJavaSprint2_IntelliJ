@@ -14,7 +14,6 @@ public class Övninsuppgift6abcdTest {
     Övningsuppgift6abcd x = new Övningsuppgift6abcd();
 
     // uppgift 3a
-
     @Test
     public final void getAmountOfValörTest(){
         int change = 32;
@@ -24,7 +23,6 @@ public class Övninsuppgift6abcdTest {
     }
 
     // uppgift 3a
-
     @Test
     public final void removeLargestValörTest(){
         int amount = 32;

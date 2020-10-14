@@ -1,6 +1,7 @@
 package ÖvnUppg10_klocka;
 
 import java.time.Instant;
+import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
@@ -13,6 +14,7 @@ public class DateProvider {
     public ZonedDateTime getZonedDateTime(ZoneId zoneId){
         Instant timeStamp= Instant.now();
         ZonedDateTime zdt = timeStamp.atZone(zoneId);
+
         return zdt;
     }
     
