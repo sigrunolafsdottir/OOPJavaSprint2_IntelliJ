@@ -2,35 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Uppg8Live/Uppg8Live.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uppg8Live/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Uppg8LiveTest/Uppg8LiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Uppg8LiveTest/testtemp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg7_Interest/ÖvnUppg7_Interest_TDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ÖvnUppg7_Interest/ÖvnUppg7_Interest_TDDTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathDemo/PathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PathDemo/PathDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathDemo/filnamn2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathDemo/testFil1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamDemo/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamDemo/StreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg10_klocka/DateProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg10_klocka/DateProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg10_klocka/Övningsuppgift10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg10_klocka/Övningsuppgift10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/SerializationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/SerializationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/minaFordon.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/minaFordon.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/ÖvnUppg12_serialisering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/ÖvnUppg12_serialisering.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg9a/ÖvnUppg9a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg9a/ÖvnUppg9a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg9b/IOUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg9b/IOUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8aTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8aTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg7_Interest/ÖvnUppg7_Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg7_Interest/ÖvnUppg7_Interest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -52,41 +35,11 @@
   <component name="FavoritesManager">
     <favorites_list name="IntelliJ" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DateDemo/DateDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2004">
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ÖvnUppg10_klocka/DateProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ÖvnUppg10_klocka/Övningsuppgift10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -155,12 +108,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="399" />
-    <option name="y" value="162" />
-    <option name="width" value="1084" />
+    <option name="y" value="161" />
+    <option name="width" value="1085" />
     <option name="height" value="588" />
   </component>
+  <component name="ProjectId" id="1xAHXs88UBsoKKnUZ1zRj4UTUtl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -169,8 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Course" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,29 +196,31 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/Uppg8LiveTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ÖvnUppg9b" />
-      <recent name="ÖvnUppg9a" />
-      <recent name="ÖvnUppg8" />
-      <recent name="ÖvnUppg8_inläsningFil" />
-      <recent name="ÖvnUppg6_Växel" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\Uppg8LiveTest" />
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\src\Uppg8Live" />
@@ -270,26 +228,27 @@
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg10_klocka" />
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\ÖvnUppg13_kalkylator" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ÖvnUppg7_Interest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ÖvnUppg9b" />
+      <recent name="ÖvnUppg9a" />
+      <recent name="ÖvnUppg8" />
+      <recent name="ÖvnUppg8_inläsningFil" />
+      <recent name="ÖvnUppg6_Växel" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Övningsuppgift10">
-    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DateDemo.DateDemo" />
+  <component name="RunManager" selected="Application.ÖvnUppg7_Interest_TDD">
+    <configuration name="ÖvnUppg7_Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg7_Interest.ÖvnUppg7_Interest" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DateDemo.*" />
+          <option name="PATTERN" value="ÖvnUppg7_Interest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PathDemo.PathDemo" />
+    <configuration name="ÖvnUppg7_Interest_TDD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg7_Interest.ÖvnUppg7_Interest_TDD" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PathDemo.*" />
+          <option name="PATTERN" value="ÖvnUppg7_Interest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,62 +269,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ÖvnUppg12_serialisering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg12_serialisering.ÖvnUppg12_serialisering" />
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg12_serialisering.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övningsuppgift10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg10_klocka.Övningsuppgift10" />
+    <configuration name="ÖvnUppg7_Interest_TDDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg10_klocka.*" />
+          <option name="PATTERN" value="ÖvnUppg7_Interest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ÖvnUppg7_Interest" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg7_Interest.ÖvnUppg7_Interest_TDDTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övningsuppgift11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg11_videobandspelare.Övningsuppgift11" />
+    <configuration name="ÖvnUppg7_Interest_TDDTest.calculateInterestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg11_videobandspelare.*" />
+          <option name="PATTERN" value="ÖvnUppg7_Interest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ÖvnUppg7_Interest" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg7_Interest.ÖvnUppg7_Interest_TDDTest" />
+      <option name="METHOD_NAME" value="calculateInterestTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ÖvnUppg7_Interest_TDDTest.getHeader7bTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg7_Interest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ÖvnUppg7_Interest" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg7_Interest.ÖvnUppg7_Interest_TDDTest" />
+      <option name="METHOD_NAME" value="getHeader7bTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Övningsuppgift10" />
-        <item itemvalue="Application.DateDemo" />
-        <item itemvalue="Application.ÖvnUppg12_serialisering" />
-        <item itemvalue="Application.Övningsuppgift11" />
-        <item itemvalue="Application.PathDemo" />
+        <item itemvalue="Application.ÖvnUppg7_Interest_TDD" />
+        <item itemvalue="JUnit.ÖvnUppg7_Interest_TDDTest" />
+        <item itemvalue="JUnit.ÖvnUppg7_Interest_TDDTest.getHeader7bTest" />
+        <item itemvalue="Application.ÖvnUppg7_Interest" />
+        <item itemvalue="JUnit.ÖvnUppg7_Interest_TDDTest.calculateInterestTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/OneDrive/Dokument/Scala/övningsprojekt/example" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -385,7 +359,11 @@
       <workItem from="1598860781825" duration="664000" />
       <workItem from="1602003299474" duration="28518000" />
       <workItem from="1602412671094" duration="1086000" />
-      <workItem from="1602482261965" duration="19670000" />
+      <workItem from="1602482261965" duration="19734000" />
+      <workItem from="1603034547971" duration="22000" />
+      <workItem from="1629791017365" duration="685000" />
+      <workItem from="1629793602360" duration="3017000" />
+      <workItem from="1629810642329" duration="3327000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -471,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602074728665</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Live coded examples">
+      <created>1602657161599</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602657161599</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -507,13 +492,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100744000" />
+    <option name="totallyTimeSpent" value="100830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.1965812" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.20037986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -522,7 +507,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50143266" side_tool="true" weight="0.2345679" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32826087" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1826087" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1826087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.16304348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -578,7 +563,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding övn uppg5" />
@@ -588,7 +573,8 @@
     <MESSAGE value="Uppgift 9, läsa in långa personer" />
     <MESSAGE value="Uppgift 9b, läsa in långa personer" />
     <MESSAGE value="cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
+    <MESSAGE value="Live coded examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Live coded examples" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java">
@@ -816,9 +802,7 @@
     <entry file="file://$PROJECT_DIR$/src/PathDemo/testFil1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PathDemo/filnamn2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PathDemo/filnamn2" />
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg9a/Personuppgifter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -938,22 +922,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DateDemo/DateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2004">
+        <state relative-caret-position="238">
           <caret line="26" column="39" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg10_klocka/Övningsuppgift10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="306">
           <caret line="18" column="45" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ÖvnUppg10_klocka/DateProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="146">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>

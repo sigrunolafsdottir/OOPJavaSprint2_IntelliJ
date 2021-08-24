@@ -26,7 +26,6 @@ public class ÖvnUppg7_Interest {
             System.out.printf("%2d%13.2f kr\n", i, amount);
             amount += amount * interest;
         }
-        System.out.flush();
     }
 
 }
