@@ -1,9 +1,8 @@
 package Uppg8LiveTest;
 
 import Uppg8Live.Uppg8Live;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

@@ -2,8 +2,8 @@ package ÖvnUppg11_videobandspelare;
 
 import java.time.Duration;
 import java.time.LocalTime;
-import junit.framework.TestCase;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class VideotapeTest {
     Videotape vt = new Videotape(90, 35);
@@ -15,20 +15,20 @@ public class VideotapeTest {
     
     @Test
     public final void minutesLeftTest() {
-        TestCase.assertTrue(vt.minutesLeft() == 55);
-        TestCase.assertFalse(vt.minutesLeft() == 57);
+        assertTrue(vt.minutesLeft() == 55);
+        assertFalse(vt.minutesLeft() == 57);
     }
     
     @Test
     public final void hasEnoughTimeTest() {
-        TestCase.assertTrue(vt.hasEnoughTime(30));
-        TestCase.assertFalse(vt.hasEnoughTime(60));
+        assertTrue(vt.hasEnoughTime(30));
+        assertFalse(vt.hasEnoughTime(60));
     }
     
     @Test
     public final void minutesLeftDurationTest() {
-        TestCase.assertTrue(vt.hasEnoughTime(fortyMinutes));
-        TestCase.assertFalse(vt.hasEnoughTime(sixtyMinutes));
+        assertTrue(vt.hasEnoughTime(fortyMinutes));
+        assertFalse(vt.hasEnoughTime(sixtyMinutes));
     }
     
     

@@ -19,24 +19,24 @@ public class DateDemo {
     
     public static void main (String[] args){
         
-        //LocalTime 
+        //LocalTime
 
         LocalTime lt = LocalTime.now();
         System.out.println(lt);
-        
+
         LocalTime lt2 = LocalTime.of(13,14,15);
         System.out.println(lt2);
-        
+
         LocalTime lt3 = LocalTime.parse("13:56:34");
         System.out.println(lt3);
 
         //LocalDate
         LocalDate now = LocalDate.now();
         System.out.println(now);
-        
+
         LocalDate anotherDay = LocalDate.of(2017,2,4);
         System.out.println(anotherDay);
-        
+
         LocalDate anotherDay2 = LocalDate
                 .of(2017, Month.JULY, 22);
         System.out.println(anotherDay2);
@@ -44,7 +44,7 @@ public class DateDemo {
         LocalDate yetAnotherDay = LocalDate
             .parse("2015-12-24");
         System.out.println(yetAnotherDay);
-        
+
         Locale.setDefault(Locale.US);
 //      Still reads and writes in Swedish format
 
@@ -57,20 +57,20 @@ public class DateDemo {
 
         LocalDateTime today = LocalDateTime.now();
 	System.out.println(today);
-		
+
 	today = LocalDateTime.of(LocalDate.now(),
                 LocalTime.now());
 	System.out.println(today);
-		
+
       LocalDateTime specificDate = LocalDateTime.of(2014,
             Month.JANUARY, 1, 10, 10, 30);
 	System.out.println(specificDate);
 
 
-//        
+//
 //        //DateFormatter
 //        
-        System.out.println(lt3.format(DateTimeFormatter.
+/*       System.out.println(lt3.format(DateTimeFormatter.
             ofPattern("H:mm:ss")));
 
         System.out.println(lt3.format(DateTimeFormatter.
@@ -112,7 +112,7 @@ public class DateDemo {
         Instant timeStamp= Instant.now();
 
         LocalDateTime ldt = LocalDateTime.now();
-/*
+
         ZoneId singaporeZoneId = ZoneId.of("Asia/Singapore");
         
         ZonedDateTime asiaZonedDateTime =
@@ -130,7 +130,7 @@ public class DateDemo {
             (DateTimeFormatter
                 .ofPattern("HH:mm:ss")));
 
- */
+
  
 
         Instant inst1 = Instant.now();
@@ -154,10 +154,10 @@ public class DateDemo {
         System.out.println(Duration.between(inst1, inst2).toMillis());
 
         System.out.println(Duration.between(lt, lt2).toHours());
-
+ */
  
     }
     
-    
+
 
 }

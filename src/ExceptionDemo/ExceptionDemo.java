@@ -1,18 +1,17 @@
 package ExceptionDemo;
 
 public class ExceptionDemo {
-    void method(String s) throws Exception {  
+    void method(String s) throws Exception {
         int i = s.length();
-        throw new Exception("Exception Occurred in method");  
+        //throw new Exception("Exception Occurred in method");
     }  
 
     void firstMethod()throws Exception{  
-       // throw new Exception("Exception Occurred");
-            method(null);
-
+        //throw new Exception("Exception Occurred");
+         //   method("hej");
+          method(null);
     }
-    
-    
+
     public static void main (String args[])throws Exception{
         ExceptionDemo obj=new ExceptionDemo(); 
         try{
@@ -20,8 +19,8 @@ public class ExceptionDemo {
             System.out.println("Stuff in try clause");
         }
         catch (Exception ae){
-            ae.printStackTrace();
-            System.out.println("Catch");
+            //.printStackTrace();
+           // System.out.println("Catch");
         }
 
         System.out.println("End Of Program");  

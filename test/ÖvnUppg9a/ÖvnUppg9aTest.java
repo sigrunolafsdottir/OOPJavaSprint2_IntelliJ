@@ -1,6 +1,7 @@
 package ÖvnUppg9a;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,8 +10,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-import static junit.framework.TestCase.assertTrue;
-import static junit.framework.TestCase.assertFalse;
+
 
 public class ÖvnUppg9aTest {
 

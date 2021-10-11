@@ -5,8 +5,9 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
-import junit.framework.TestCase;
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 
 public class DateProviderTest {
@@ -28,11 +29,11 @@ public class DateProviderTest {
         ZoneId zoneId2 = dp.indata2ZoneId(inData2);
         ZoneId zoneId3 = dp.indata2ZoneId(inData3);
         
-        TestCase.assertEquals(correctZone1, zoneId1.toString());
-        TestCase.assertEquals(correctZone2, zoneId2.toString());
-        TestCase.assertEquals(correctZone3, zoneId3.toString());
-        TestCase.assertFalse(correctZone3.equals(zoneId2.toString()));
-        TestCase.assertNull(dp.indata2ZoneId("bla bla"));
+        assertEquals(correctZone1, zoneId1.toString());
+        assertEquals(correctZone2, zoneId2.toString());
+        assertEquals(correctZone3, zoneId3.toString());
+        assertFalse(correctZone3.equals(zoneId2.toString()));
+        assertNull(dp.indata2ZoneId("bla bla"));
     }
     
     @Test
@@ -54,10 +55,10 @@ public class DateProviderTest {
         ZonedDateTime zdtShanghai = dp.getZonedDateTime(shanghaiZoneId);
         ZonedDateTime zdtToronto = dp.getZonedDateTime(torontoZoneId);
         
-        TestCase.assertEquals(stockholmZoneId.toString(), zdtStockholm.getZone().toString());
-        TestCase.assertEquals(shanghaiZoneId.toString(), zdtShanghai.getZone().toString());
-        TestCase.assertEquals(torontoZoneId.toString(), zdtToronto.getZone().toString());
-        TestCase.assertFalse(stockholmZoneId.toString().equals(zdtToronto.getZone().toString()));
+        assertEquals(stockholmZoneId.toString(), zdtStockholm.getZone().toString());
+        assertEquals(shanghaiZoneId.toString(), zdtShanghai.getZone().toString());
+        assertEquals(torontoZoneId.toString(), zdtToronto.getZone().toString());
+        assertFalse(stockholmZoneId.toString().equals(zdtToronto.getZone().toString()));
         
     }
     
@@ -73,10 +74,10 @@ public class DateProviderTest {
         String message3 = dp.getMessage("Shanghai");
         String expectedStartOfMessage3 = "I Shanghai är klockan";
         
-        TestCase.assertTrue(message.startsWith(expectedStartOfMessage));
-        TestCase.assertTrue(message2.startsWith(expectedStartOfMessage2));
-        TestCase.assertTrue(message3.startsWith(expectedStartOfMessage3));
-        TestCase.assertFalse(message.startsWith("gdsgd gfd"));
+        assertTrue(message.startsWith(expectedStartOfMessage));
+        assertTrue(message2.startsWith(expectedStartOfMessage2));
+        assertTrue(message3.startsWith(expectedStartOfMessage3));
+        assertFalse(message.startsWith("gdsgd gfd"));
     }
     
     
@@ -86,8 +87,8 @@ public class DateProviderTest {
         String message = dp.getErrorMessage();
         String expectedMessage = "Inte en giltig stad";
         
-        TestCase.assertTrue(message.equals(expectedMessage));
-        TestCase.assertFalse(message.equals("gdsgd gfd"));
+        assertTrue(message.equals(expectedMessage));
+        assertFalse(message.equals("gdsgd gfd"));
     }
 
 }

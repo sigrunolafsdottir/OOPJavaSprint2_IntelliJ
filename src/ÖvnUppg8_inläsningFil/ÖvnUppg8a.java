@@ -18,6 +18,7 @@ public class ÖvnUppg8a {
         String replaced = val.replaceAll(",", ".");
         temp = Double.parseDouble(replaced);
         return temp;
+
     }
 
     public List<Double> generateListFromFile(String tempPath){

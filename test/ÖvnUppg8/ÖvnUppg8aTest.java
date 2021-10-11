@@ -1,13 +1,14 @@
 package ÖvnUppg8;
 
-import org.junit.Test;
+
 import ÖvnUppg8_inläsningFil.ÖvnUppg8a;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
-import static junit.framework.TestCase.assertTrue;
-import static org.junit.Assert.assertFalse;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class ÖvnUppg8aTest {
 
@@ -38,7 +39,9 @@ public class ÖvnUppg8aTest {
 
     @Test
     public final void calculateMaxTest(){
-        List<Double> tempList = x.generateListFromFile("test/ÖvnUppg8/testtemp.txt");
+        //List<Double> tempList = x.generateListFromFile("test/ÖvnUppg8/testtemp.txt");
+
+        List<Double> tempList = Arrays.asList(2.3, 5.6, 14.5, 12.3, 14.0);
         assertTrue(x.calculateMax(tempList) == 14.5);
         assertFalse(x.calculateMax(tempList) == 14.0);
     }

@@ -10,15 +10,20 @@ public class StreamDemo {
         String tempLine = "";
         BufferedReader bufIn = null;
         FileReader fr = null;
+        int tempInt;
         
         try {
             bufIn = new BufferedReader
-                (new FileReader ("src/StreamDemo/Luka.txt"));
-            while((tempLine = bufIn.readLine()) != null){
+                (new FileReader ("src/StreamDemo/numbers.txt"));
 
+
+            while((tempLine = bufIn.readLine()) != null){
+                tempLine = tempLine.trim();
                 System.out.println(tempLine);
+                tempInt = Integer.parseInt(tempLine);
+                System.out.println("tempInt: "+tempInt);
             }
-/*
+/*          // utan bufferreader
             int tempInt;
             FileReader bufIn2 = new FileReader ("src/StreamDemo/Luka.txt");
             while((tempInt = bufIn2.read()) != -1){

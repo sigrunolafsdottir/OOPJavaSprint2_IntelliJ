@@ -1,11 +1,11 @@
 package ÖvnUppg8;
 
-import org.junit.Test;
+
 import ÖvnUppg8_inläsningFil.ÖvnUppg8b;
 import java.util.List;
 
-import static junit.framework.TestCase.assertTrue;
-import static org.junit.Assert.assertFalse;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class ÖvnUppg8bTest {
 

@@ -5,12 +5,11 @@ import java.util.List;
 
 public class ÖvnUppg9b {
 
+
     public ÖvnUppg9b() {
        
-        String filePath = "src\\ÖvnUppg9b\\"
-                + "Personuppgifter.txt";
-        String outFilePathString = "src\\ÖvnUppg9b"
-                + "\\TallPeopleInformation.txt";
+        String filePath = "src\\ÖvnUppg9b\\Personuppgifter.txt";
+        String outFilePathString = "src\\ÖvnUppg9b\\TallPeopleInformation.txt";
         
         List <Person> personList = IOUtil
                 .readDataFromFile(filePath);

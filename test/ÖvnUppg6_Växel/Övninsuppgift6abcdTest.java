@@ -1,37 +1,17 @@
 package ÖvnUppg6_Växel;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.NoSuchElementException;
-
-import static junit.framework.TestCase.assertTrue;
-import static junit.framework.TestCase.assertFalse;
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class Övninsuppgift6abcdTest {
 
     Övningsuppgift6abcd x = new Övningsuppgift6abcd();
 
-    // uppgift 3a
-    @Test
-    public final void getAmountOfValörTest(){
-        int change = 32;
-        int valör = 10;
-        assertTrue(x.getAmountOfValör(change,valör ) == 3);
-        assertFalse(x.getAmountOfValör(change,valör ) == 5);
-    }
-
-    // uppgift 3a
-    @Test
-    public final void removeLargestValörTest(){
-        int amount = 32;
-        int valör = 10;
-        assertTrue(x.removeLargestValör(amount,valör, 3) == 2);
-        assertFalse(x.removeLargestValör(amount,valör, 2 ) == 5);
-    }
-
-    // uppgift 3a
+    // uppgift 6a
     @Test
     public final void getChangeTest(){
         int price = 234;
@@ -40,7 +20,27 @@ public class Övninsuppgift6abcdTest {
         assertFalse(x.getChange(price, amountPayed) == 765);
     }
 
-    // uppgift 3b
+    // uppgift 6a
+    @Test
+    public final void getAmountOfValörTest(){
+        int change = 32;
+        int valör = 10;
+        assertTrue(x.getAmountOfValör(change,valör ) == 3);
+        assertFalse(x.getAmountOfValör(change,valör ) == 5);
+    }
+
+    // uppgift 6a
+    @Test
+    public final void removeLargestValörTest(){
+        int amount = 32;
+        int valör = 10;
+        assertTrue(x.removeLargestValör(amount,valör, 3) == 2);
+        assertFalse(x.removeLargestValör(amount,valör, 2 ) == 5);
+    }
+
+
+
+    // uppgift 6b
     @Test
     public final void getMyntOrSedelTest(){
         int amount1 = 1;
@@ -91,7 +91,7 @@ public class Övninsuppgift6abcdTest {
 
     // uppgift 3d
     @Test
-    public final void readInputDataInputMismatchExceptionTest(){
+    public final void readInputDataNoSuchElementExceptionTest(){
         x.test = true;
         String error = "sfsfdsfs";
         Throwable exception = assertThrows(NoSuchElementException.class,

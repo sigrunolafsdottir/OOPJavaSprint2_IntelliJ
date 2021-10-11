@@ -1,7 +1,8 @@
 package ÖvnUppg2_TDD;
 
-import org.junit.Test;
-import static junit.framework.TestCase.assertTrue;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class CarCalculatorTest {
 

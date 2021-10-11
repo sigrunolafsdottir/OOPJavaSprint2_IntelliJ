@@ -15,12 +15,12 @@ public class ScannerDemoNoExceptions {
         
         System.out.println("State your cost: ");
         
-        boolean gettingCost = false;
-        boolean gettingPayment = false;
-        while (!gettingCost){
+        boolean dontKnowCost = true;
+        boolean dontKnowPayment = true;
+        while (dontKnowCost){
                 if (sc.hasNextInt()){
                     cost = sc.nextInt();
-                    gettingCost = true;
+                    dontKnowCost = false;
                 }
                 else if (sc.hasNext()){
                     System.out.println("Incorrect cost, try again");
@@ -30,10 +30,10 @@ public class ScannerDemoNoExceptions {
         
         System.out.println("State your payment: ");
         
-        while (!gettingPayment){
+        while (dontKnowPayment){
                 if (sc.hasNextInt()){
                     payment = sc.nextInt();
-                    gettingPayment = true;
+                    dontKnowPayment = false;
                 }
                 else if (sc.hasNext()){
                     System.out.println("Incorrect payment, try again");

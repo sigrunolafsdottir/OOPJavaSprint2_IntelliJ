@@ -74,7 +74,7 @@ public class Övningsuppgift6abcd {
         else return null;
     }
 
-    //läser in data till programmet
+    //läser in data till programmet, optionalTest är 6d
     public int readInputData(String prompt, String optionalTestParameter){
 
         if(test){

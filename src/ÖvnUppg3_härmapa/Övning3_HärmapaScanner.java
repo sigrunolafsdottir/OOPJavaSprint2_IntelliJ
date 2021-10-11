@@ -3,11 +3,12 @@ package ÖvnUppg3_härmapa;
 import java.util.Scanner;
 
 
-public class Övning0_HärmapaScanner {
+public class Övning3_HärmapaScanner {
 
-    Övning0_HärmapaScanner(){
-/*
-       Scanner sc = new Scanner(System.in, "utf-8");
+    Övning3_HärmapaScanner(){
+
+       //Scanner sc = new Scanner(System.in, "utf-8");
+        Scanner sc = new Scanner(System.in);
        System.out.print("Write something: ");
        
         while (sc.hasNextLine()){
@@ -18,7 +19,7 @@ public class Övning0_HärmapaScanner {
             System.out.println("You said: "+input);
             System.out.print("Write something: ");
         }
-*/
+/*
 
 //        //Variant
         Scanner sc2 = new Scanner(System.in);
@@ -35,10 +36,10 @@ public class Övning0_HärmapaScanner {
             System.out.print("Write something:  ");
         }
 
-
+*/
     }
 
     public static void main(String[] args){
-        Övning0_HärmapaScanner sc = new Övning0_HärmapaScanner();
+        Övning3_HärmapaScanner sc = new Övning3_HärmapaScanner();
     }
 }
