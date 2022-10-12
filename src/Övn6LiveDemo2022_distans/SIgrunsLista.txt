@@ -1,0 +1,23 @@
+
+Vi får: pris, fullAmount
+Räkna ut växle: fullAmount - pris
+int getChange(int price, int fullAmount)
+
+Skapa lista [1000, 500, 200, 100, 50, 20, 10, 5, 2, 1]
+
+3000 / 1000 = 3
+3005 / 1000 = 3
+
+int getMultiplier(int change, int amount)
+
+3000 % 1000 = 0
+3005 % 1000 = 5
+
+int getRest(int change, int amount)
+
+
+
+
+List<Integer> doIteration (int change)
+
+3005  -> [3, 0, 0, 0, 0, 0, 0, 1, 0, 0]
