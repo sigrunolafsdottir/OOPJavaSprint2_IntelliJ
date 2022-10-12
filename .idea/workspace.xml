@@ -1,170 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="tdd-version av uppgift 7 tillagd">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/CarCalcLive/CarCalc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/DateDemo/DateDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ExceptionDemo/ExceptionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ExceptionDemo/TestException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ExceptionDemo/TestExceptionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/HärmApaLive/HärmApaLive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/JOptionDemo/JOptionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/LiveKodTallPeople/LiveKodTallPeople.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/LiveKodTallPeople/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/LocaleDemo/LocaleDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/Miniprogram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/PathDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/citat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/filnamn2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/PathDemo/testFil1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ScannerDemo/ScannerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ScannerDemo/ScannerDemoNoExceptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ScannerLiveDemo/ScannerLiveDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/AnotherFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/Luka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/SomeFileThatDoesNotExist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/StreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/TryWithResourcesDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StreamDemo/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StringDemo/StringBuilderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/StringDemo/StringDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/TDDCalculator/TDDCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/TDDDemo/CalculatorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Uppg8Live/Uppg8Live.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Uppg8Live/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/VideoDemo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/VideoDemo/Video.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/VideoDemo/VideoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övn10Live/TimeProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övn9Live2/DateProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/Övn9Live2/Övn9Live2Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUPpg6_LiveDemo/ÖvnUppg6_live.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg10_klocka/DateProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg10_klocka/Övningsuppgift10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg11_videobandspelare/Videotape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg11_videobandspelare/Övningsuppgift11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/Bil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/Båt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/Cykel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/Fordon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/Printable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/SerializationManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/Tåg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/minaFordon.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg12_serialisering/ÖvnUppg12_serialisering.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg13_kalkylator/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg13_kalkylator/OperatorNotSupportedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg13_kalkylator/Övningsuppgift13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Figure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg1_TDD/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg2_TDD/CarCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg3_härmapa/Övning3_HärmapaScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg4_scanner_bensinförbrukning/CarCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg5_exceptions/ÖvnUppg5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg5_exceptions/ÖvnUppg5_Bas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg6_Växel/ÖvnUppg6_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg6_Växel/Övningsuppgift6abcd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest_Recursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest_TDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg8_inläsningFil/ÖvnUppg8b_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/ÖvnUppg9a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/ÖvnUppg9a_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/IOUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/LogicUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/ÖvnUppg9b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9b/ÖvnUppg9b_gammal_inteTDD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sprint2/övningsuppgift1/Övningsuppgift1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/CarCalcLiveTest/CarCalcTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/LiveKodTallPeople/LiveKodTallPeopleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/LiveKodTallPeople/Output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/LiveKodTallPeople/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/LiveKodTallPeople/PersonuppgifterSmall.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/Uppg8LiveTest/Uppg8LiveTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/Uppg8LiveTest/testtemp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUPpg6_LiveDemo/ÖvnUppg6_liveTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg10_klocka/DateProviderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg11_videobandspelare/VideotapeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg13_kalkylator/CalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/CircleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/SquareTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg1_TDD/TriangleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg2_TDD/CarCalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg7_Interest/ÖvnUppg7_Interest_TDDTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/temp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/ÖvnUppg8aTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg8/ÖvnUppg8bTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/Personuppgifter_oneShortGuy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/Personuppgifter_oneTallGuy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9a/ÖvnUppg9aTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/IOUtilTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/LogicUtilTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/PersonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/TallPeopleInformation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Sprint2/ÖvnUppg9b/ÖvnUppg9bTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LiveKodTallPeople/LiveKodTallPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LiveKodTallPeople/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LiveKodTallPeople/TallPeopleInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathDemo/filnamn2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathDemo/testFil1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerLiveDemo/ScannerLiveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StreamDemo/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ÖvnUPpg6_LiveDemo/ÖvnUppg6_live.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LiveKodTallPeople/LiveKodTallPeopleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LiveKodTallPeople/Output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LiveKodTallPeople/Personuppgifter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LiveKodTallPeople/PersonuppgifterSmall.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ÖvnUPpg6_LiveDemo/ÖvnUppg6_liveTest.java" afterDir="false" />
+    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="städning">
+      <change afterPath="$PROJECT_DIR$/src/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distansTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sprint2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionDemo/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionDemo/ExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathDemo/PathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PathDemo/PathDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathDemo/testFil1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScannerDemo/ScannerDemoNoExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScannerDemo/ScannerDemoNoExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StreamDemo/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamDemo/StreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringDemo/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringDemo/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg3_härmapa/Övning0_HärmapaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg3_härmapa/Övning3_HärmapaScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg9b/ÖvnUppg9b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg9b/ÖvnUppg9b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/CarCalcLiveTest/CarCalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CarCalcLiveTest/CarCalcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Uppg8LiveTest/Uppg8LiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Uppg8LiveTest/Uppg8LiveTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg10_klocka/DateProviderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg10_klocka/DateProviderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg11_videobandspelare/VideotapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg11_videobandspelare/VideotapeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/SquareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/TriangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg2_TDD/CarCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg2_TDD/CarCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg4_scanner_bensinförbrukning/CarCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg6_Växel/Övninsuppgift6abcdTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg7_Interest/ÖvnUppg7_Interest_TDDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg7_Interest/ÖvnUppg7_Interest_TDDTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8aTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8aTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg9a/TallPeopleInformation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg9a/TallPeopleInformation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg9a/ÖvnUppg9aTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg9a/ÖvnUppg9aTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg9b/IOUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/IOUtilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg9b/LogicUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/LogicUtilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg9b/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg9b/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/minaFordon.ser" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,14 +35,11 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="IntelliJ" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -266,6 +107,9 @@
         <option value="$PROJECT_DIR$/src/ÖvnUppg10_klocka/Övningsuppgift10.java" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -363,26 +207,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/LiveKodTallPeople" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s_ola/Dropbox/Jobb/OOochJava/Sprint2/kod/IntelliJ&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\s_ola\Dropbox\Jobb\OOochJava\Sprint2\kod\IntelliJ\test\LiveKodTallPeople" />
@@ -407,13 +237,13 @@
       <recent name="ÖvnUppg6_Växel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LiveKodTallPeople">
-    <configuration name="LiveKodTallPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiveKodTallPeople.LiveKodTallPeople" />
+  <component name="RunManager" selected="Application.Övn6Livedemo_2022_distans">
+    <configuration name="Övn6Livedemo_2022_distans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distans" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LiveKodTallPeople.*" />
+          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,75 +251,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
+    <configuration name="Övn6Livedemo_2022_distansTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiveKodTallPeopleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övn6Livedemo_2022_distansTest.doIterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LiveKodTallPeople.*" />
+          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LiveKodTallPeople" />
-      <option name="MAIN_CLASS_NAME" value="LiveKodTallPeople.LiveKodTallPeopleTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LiveKodTallPeopleTest.findTallPersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LiveKodTallPeople.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LiveKodTallPeople" />
-      <option name="MAIN_CLASS_NAME" value="LiveKodTallPeople.LiveKodTallPeopleTest" />
-      <option name="METHOD_NAME" value="findTallPersonTest" />
+      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
+      <option name="METHOD_NAME" value="doIterationTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiveKodTallPeopleTest.printToFileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övn6Livedemo_2022_distansTest.getMultiplyerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LiveKodTallPeople.*" />
+          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LiveKodTallPeople" />
-      <option name="MAIN_CLASS_NAME" value="LiveKodTallPeople.LiveKodTallPeopleTest" />
-      <option name="METHOD_NAME" value="printToFileTest" />
+      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
+      <option name="METHOD_NAME" value="getMultiplyerTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiveKodTallPeopleTest.readAndFindTallPersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övn6Livedemo_2022_distansTest.getRestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LiveKodTallPeople.*" />
+          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LiveKodTallPeople" />
-      <option name="MAIN_CLASS_NAME" value="LiveKodTallPeople.LiveKodTallPeopleTest" />
-      <option name="METHOD_NAME" value="readAndFindTallPersonTest" />
+      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
+      <option name="METHOD_NAME" value="getRestTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -497,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LiveKodTallPeople" />
-        <item itemvalue="JUnit.LiveKodTallPeopleTest" />
-        <item itemvalue="JUnit.LiveKodTallPeopleTest.printToFileTest" />
-        <item itemvalue="JUnit.LiveKodTallPeopleTest.readAndFindTallPersonTest" />
-        <item itemvalue="JUnit.LiveKodTallPeopleTest.findTallPersonTest" />
+        <item itemvalue="Application.Övn6Livedemo_2022_distans" />
+        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest" />
+        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest.doIterationTest" />
+        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest.getRestTest" />
+        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest.getMultiplyerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -535,7 +354,14 @@
       <workItem from="1633333169319" duration="234000" />
       <workItem from="1633347913548" duration="2453000" />
       <workItem from="1633414590645" duration="7041000" />
-      <workItem from="1633881335639" duration="14542000" />
+      <workItem from="1633881335639" duration="21444000" />
+      <workItem from="1634483223927" duration="43000" />
+      <workItem from="1634544749105" duration="17000" />
+      <workItem from="1635857544868" duration="2216000" />
+      <workItem from="1662704142213" duration="601000" />
+      <workItem from="1663319953721" duration="78000" />
+      <workItem from="1665423809007" duration="612000" />
+      <workItem from="1665503253313" duration="7693000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -634,7 +460,14 @@
       <option name="presentableId" value="LOCAL−00014" />
       <updated>1629814413564</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="städning">
+      <created>1663320025587</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663320025587</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -753,7 +586,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding övn uppg5" />
@@ -765,7 +597,8 @@
     <MESSAGE value="cleanup" />
     <MESSAGE value="Live coded examples" />
     <MESSAGE value="tdd-version av uppgift 7 tillagd" />
-    <option name="LAST_COMMIT_MESSAGE" value="tdd-version av uppgift 7 tillagd" />
+    <MESSAGE value="städning" />
+    <option name="LAST_COMMIT_MESSAGE" value="städning" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java">
