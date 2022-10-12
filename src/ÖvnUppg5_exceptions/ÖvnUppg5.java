@@ -37,8 +37,8 @@ public class ÖvnUppg5 {
                 felText = "Indata saknas!";
             }
             catch (Exception e) {
-                if (e instanceof InputMismatchException){
-                    //do stuff
+                if (e instanceof InputMismatchException){ //om man vill fånga upp specifikt Exception
+                    e.printStackTrace();
                 }
                 felText = "Ospecifierat fel inträffade, försök igen!";
             }
