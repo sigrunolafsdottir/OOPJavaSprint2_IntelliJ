@@ -5,6 +5,8 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 public class Övn6Livedemo_2022_distansTest
 {
     boolean test = true;
@@ -26,6 +28,7 @@ public class Övn6Livedemo_2022_distansTest
     public void getCorrectAmounts(){
 
         assert(öu.amounts.size() == 10);
+        assertTrue(öu.amounts.size() == 10);
         assert(öu.amounts.get(0) == 1000);
         assert(öu.amounts.get(1) == 500);
         assert(öu.amounts.get(2) == 200);

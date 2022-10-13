@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="städning">
-      <change afterPath="$PROJECT_DIR$/src/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distansTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="mini cleanup">
+      <change afterPath="$PROJECT_DIR$/src/Övn6LiveDemoPåplats2022/Övn6LiveDemoPåplats2022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Övn6LiveDemoPåplats2022/Övn6LiveDemoPåplats2022Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg12_serialisering/minaFordon.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distansTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distansTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,13 +234,13 @@
       <recent name="ÖvnUppg6_Växel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Övn6Livedemo_2022_distans">
-    <configuration name="Övn6Livedemo_2022_distans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distans" />
+  <component name="RunManager" selected="JUnit.Övn6LiveDemoPåplats2022Test.getResultStringTest">
+    <configuration name="Övn6LiveDemoPåplats2022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemoPåplats2022.Övn6LiveDemoPåplats2022" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
+          <option name="PATTERN" value="Övn6LiveDemoPåplats2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,64 +248,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övn6Livedemo_2022_distansTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övn6LiveDemoPåplats2022Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
+          <option name="PATTERN" value="Övn6LiveDemoPåplats2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
-      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
+      <option name="PACKAGE_NAME" value="Övn6LiveDemoPåplats2022" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemoPåplats2022.Övn6LiveDemoPåplats2022Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övn6Livedemo_2022_distansTest.doIterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övn6LiveDemoPåplats2022Test.getMoneyTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
+          <option name="PATTERN" value="Övn6LiveDemoPåplats2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
-      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
-      <option name="METHOD_NAME" value="doIterationTest" />
+      <option name="PACKAGE_NAME" value="Övn6LiveDemoPåplats2022" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemoPåplats2022.Övn6LiveDemoPåplats2022Test" />
+      <option name="METHOD_NAME" value="getMoneyTypeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övn6Livedemo_2022_distansTest.getMultiplyerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övn6LiveDemoPåplats2022Test.getResultStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
+          <option name="PATTERN" value="Övn6LiveDemoPåplats2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
-      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
-      <option name="METHOD_NAME" value="getMultiplyerTest" />
+      <option name="PACKAGE_NAME" value="Övn6LiveDemoPåplats2022" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemoPåplats2022.Övn6LiveDemoPåplats2022Test" />
+      <option name="METHOD_NAME" value="getResultStringTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övn6Livedemo_2022_distansTest.getRestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Övn6LiveDemoPåplats2022Test.iterateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Övn6LiveDemo2022_distans.*" />
+          <option name="PATTERN" value="Övn6LiveDemoPåplats2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Övn6LiveDemo2022_distans" />
-      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemo2022_distans.Övn6Livedemo_2022_distansTest" />
-      <option name="METHOD_NAME" value="getRestTest" />
+      <option name="PACKAGE_NAME" value="Övn6LiveDemoPåplats2022" />
+      <option name="MAIN_CLASS_NAME" value="Övn6LiveDemoPåplats2022.Övn6LiveDemoPåplats2022Test" />
+      <option name="METHOD_NAME" value="iterateTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -316,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Övn6Livedemo_2022_distans" />
-        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest" />
-        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest.doIterationTest" />
-        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest.getRestTest" />
-        <item itemvalue="JUnit.Övn6Livedemo_2022_distansTest.getMultiplyerTest" />
+        <item itemvalue="JUnit.Övn6LiveDemoPåplats2022Test.getResultStringTest" />
+        <item itemvalue="JUnit.Övn6LiveDemoPåplats2022Test.getMoneyTypeTest" />
+        <item itemvalue="JUnit.Övn6LiveDemoPåplats2022Test" />
+        <item itemvalue="Application.Övn6LiveDemoPåplats2022" />
+        <item itemvalue="JUnit.Övn6LiveDemoPåplats2022Test.iterateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +358,7 @@
       <workItem from="1662704142213" duration="601000" />
       <workItem from="1663319953721" duration="78000" />
       <workItem from="1665423809007" duration="612000" />
-      <workItem from="1665503253313" duration="7693000" />
+      <workItem from="1665503253313" duration="16138000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -467,7 +464,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663320025587</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added live demo 6a">
+      <created>1665566552487</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665566552488</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added list of things to do, used in demo">
+      <created>1665575750702</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665575750702</updated>
+    </task>
+    <task id="LOCAL-00018" summary="mini cleanup">
+      <created>1665589529926</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665589529926</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -598,7 +616,10 @@
     <MESSAGE value="Live coded examples" />
     <MESSAGE value="tdd-version av uppgift 7 tillagd" />
     <MESSAGE value="städning" />
-    <option name="LAST_COMMIT_MESSAGE" value="städning" />
+    <MESSAGE value="added live demo 6a" />
+    <MESSAGE value="added list of things to do, used in demo" />
+    <MESSAGE value="mini cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini cleanup" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java">
