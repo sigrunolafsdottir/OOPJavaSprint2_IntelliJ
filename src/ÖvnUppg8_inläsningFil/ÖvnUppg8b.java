@@ -11,15 +11,13 @@ import java.util.Scanner;
 
 public class ÖvnUppg8b {
 
-    String tempLine;
-    final String tempPath = "src/ÖvnUppg8_inläsningFil/temp.txt";
+
     Path p = Paths.get("src/ÖvnUppg8_inläsningFil/temp.txt");
 
     public List<Double> generateListFromFile(Path tempPath){
         List<Double> allMeasurements = new ArrayList<>();
         try {
 
-            //Scanner sc = new Scanner(new File(tempPath));
             Scanner sc = new Scanner(tempPath);
             while(sc.hasNextDouble()){
                 allMeasurements.add(sc.nextDouble());

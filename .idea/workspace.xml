@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="adding live demo uppg 6 påplats">
+    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="cleaning up old File-usage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg8/ÖvnUppg8bTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +232,7 @@
       <recent name="ÖvnUppg6_Växel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ÖvnUppg8a">
+  <component name="RunManager" selected="JUnit.ÖvnUppg8bTest">
     <configuration name="ÖvnUppg8a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ÖvnUppg8_inläsningFil.ÖvnUppg8a" />
       <module name="Sprint2" />
@@ -309,10 +308,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ÖvnUppg8a" />
         <item itemvalue="JUnit.ÖvnUppg8bTest" />
-        <item itemvalue="JUnit.ÖvnUppg8bTest.generateListFromFileTest" />
         <item itemvalue="Application.ÖvnUppg8b" />
+        <item itemvalue="Application.ÖvnUppg8a" />
+        <item itemvalue="JUnit.ÖvnUppg8bTest.generateListFromFileTest" />
         <item itemvalue="JUnit.Övn6LiveDemoPåplats2022Test.getResultStringTest" />
       </list>
     </recent_temporary>
@@ -354,7 +353,7 @@
       <workItem from="1662704142213" duration="601000" />
       <workItem from="1663319953721" duration="78000" />
       <workItem from="1665423809007" duration="612000" />
-      <workItem from="1665503253313" duration="20341000" />
+      <workItem from="1665503253313" duration="21703000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -488,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665651363431</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="cleaning up old File-usage">
+      <created>1665662782997</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665662782997</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -623,7 +629,8 @@
     <MESSAGE value="added list of things to do, used in demo" />
     <MESSAGE value="mini cleanup" />
     <MESSAGE value="adding live demo uppg 6 påplats" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding live demo uppg 6 påplats" />
+    <MESSAGE value="cleaning up old File-usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning up old File-usage" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/ÖvnUppg13_kalkylator/CalculatorTest.java">
