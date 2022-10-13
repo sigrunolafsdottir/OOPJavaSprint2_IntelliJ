@@ -3,6 +3,8 @@ package ÖvnUppg8_inläsningFil;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -11,12 +13,14 @@ public class ÖvnUppg8b {
 
     String tempLine;
     final String tempPath = "src/ÖvnUppg8_inläsningFil/temp.txt";
+    Path p = Paths.get("src/ÖvnUppg8_inläsningFil/temp.txt");
 
-    public List<Double> generateListFromFile(String tempPath){
+    public List<Double> generateListFromFile(Path tempPath){
         List<Double> allMeasurements = new ArrayList<>();
         try {
 
-            Scanner sc = new Scanner(new File(tempPath));
+            //Scanner sc = new Scanner(new File(tempPath));
+            Scanner sc = new Scanner(tempPath);
             while(sc.hasNextDouble()){
                 allMeasurements.add(sc.nextDouble());
             }
@@ -59,7 +63,7 @@ public class ÖvnUppg8b {
 
 
     public ÖvnUppg8b() {
-        List<Double> allMeasurements = generateListFromFile(tempPath);
+        List<Double> allMeasurements = generateListFromFile(p);
         System.out.printf("Maxtemp är %.1f\nMintemp är %.1f\n"
                         + "Medelvärdet är %.1f (beräknat över %d dagar)\n",
                 calculateMax(allMeasurements), calculateMin(allMeasurements),
