@@ -2,8 +2,7 @@ package ÖvnUppg1_TDD;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class CircleTest {
 
@@ -30,15 +29,19 @@ public class CircleTest {
 
         //rätt svar: 28.2743339
         assertTrue(c1.getArea() - 28.274 > 0);
-        assertTrue(c1.getArea() - 29 < 0);
+        assertTrue(c1.getArea() - 28.275 < 0);
+
+        //Alternativ med delta-vörde
+        assertEquals(c1.getArea(), 28.274, 0.001);
     }
 
     @Test
     public final void testCircumference(){
 
-
         //rätt svar: 18.8495559
         assertTrue(c1.getCircumference() - 18.849 > 0 );
-        assertTrue(c1.getCircumference() - 19 < 0);
+        assertTrue(c1.getCircumference() - 18.850 < 0);
+
+        assertEquals(c1.getCircumference(), 18.849, 0.001);
     }
 }

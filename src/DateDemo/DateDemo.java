@@ -34,6 +34,7 @@ public class DateDemo {
 
         LocalTime lt4 = lt3.minusHours(20);
         System.out.println(lt4);
+        System.out.println();
 
         //LocalDate
         LocalDate now = LocalDate.now();
@@ -46,13 +47,11 @@ public class DateDemo {
                 .of(2017, Month.JULY, 22);
         System.out.println(anotherDay2);
 
-
-        System.out.println("aaa");
         LocalDate yetAnotherDay = LocalDate
             .parse("2015-12-24");
         System.out.println(yetAnotherDay);
 
-
+        System.out.println();
 
 
 //        //LocalDateTime
@@ -60,13 +59,14 @@ public class DateDemo {
         LocalDateTime today = LocalDateTime.now();
 	System.out.println(today);
 
-	today = LocalDateTime.of(LocalDate.now(),
-                LocalTime.now());
+	today = LocalDateTime.of(LocalDate.now(), LocalTime.now());
 	System.out.println(today);
 
       LocalDateTime specificDate = LocalDateTime.of(2014,
             Month.JANUARY, 1, 10, 10, 30);
 	System.out.println(specificDate);
+
+        System.out.println();
 
 
 //
@@ -91,6 +91,7 @@ public class DateDemo {
             (DateTimeFormatter
                 .ofPattern("YYYY-MM-dd HH:mm:ss")));
 
+        System.out.println();
 
         System.out.println(TimeZone.getDefault().toString());
         System.out.println(TimeZone.getDefault().toZoneId());

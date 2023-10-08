@@ -21,9 +21,9 @@ public class Övningsuppgift11 {
             LocalTime startTime = LocalTime.parse(sc.next());
             System.out.println("TV-programmets sluttid?");
             LocalTime endTime = LocalTime.parse(sc.next());
-            Duration d = Duration.between(startTime, endTime);
+            Duration tvProgram = Duration.between(startTime, endTime);
 
-            if (vt.hasEnoughTime(d)){
+            if (vt.hasEnoughTime(tvProgram)){
                 System.out.println("Bandet räcker!");
             }
             else {

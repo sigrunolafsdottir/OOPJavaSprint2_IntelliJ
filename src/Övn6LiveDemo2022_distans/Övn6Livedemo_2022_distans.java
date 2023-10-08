@@ -61,11 +61,13 @@ public class Övn6Livedemo_2022_distans {
         return change%amount;
     }
 
+    //List.of(1000, 500, 200, 100, 50, 20, 10, 5, 2, 1);
     public List<Integer> doIteration(int change) {
-        List<Integer> res = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();  //[3,0,0,0,0,0...
 
         for(int i = 0; i < amounts.size(); i++){
             res.add(getMultiplyer(change, amounts.get(i)));
+            //change = change - getMultiplyer(change, amounts.get(i))
             change = getRest(change, amounts.get(i));
         }
         return res;
