@@ -23,10 +23,23 @@ public class SerializationManager {
             e.printStackTrace();
         }
     }
+
+    public void serializeFordon(Fordon f, String filePath ){
+        try (FileOutputStream fileOut =
+                     new FileOutputStream(filePath);
+             ObjectOutputStream objectOut = new ObjectOutputStream(fileOut);) {
+
+            objectOut.writeObject(f);
+            System.out.printf("Fordonen sparade i %s\n", filePath);
+        }
+        catch(IOException e) {
+            e.printStackTrace();
+        }
+    }
     
-    public List<Fordon> deSerializeList(){
-        List<Fordon> list = new ArrayList<Fordon>();
-        try (FileInputStream fileIn = new FileInputStream("src/ÖvnUppg12_serialisering/minaFordon.ser");
+    public List<Fordon> deSerializeList(String path){
+        List<Fordon> list = new ArrayList<>();
+        try (FileInputStream fileIn = new FileInputStream(path);
             ObjectInputStream in = new ObjectInputStream(fileIn);) {
             
             list = (List<Fordon>) in.readObject();
@@ -39,5 +52,27 @@ public class SerializationManager {
             System.out.println("Fordon okänd klass");
         }
         return list;
+    }
+
+
+    //No casting, but does not work for List
+    public Fordon deSerializeFordon(String path){
+        try (FileInputStream fileIn = new FileInputStream(path);
+             ObjectInputStream in = new ObjectInputStream(fileIn);) {
+
+            Object o = in.readObject();
+
+            if (o instanceof Fordon f){
+                return f;
+            }
+
+        }
+        catch(IOException e) {
+            System.out.println("Något gick fel");
+        }
+        catch(ClassNotFoundException e) {
+            System.out.println("Fordon okänd klass");
+        }
+        return null;
     }
 }

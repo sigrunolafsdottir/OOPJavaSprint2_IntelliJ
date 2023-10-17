@@ -24,13 +24,21 @@ public class ÖvnUppg12_serialisering {
         fordonsLista.add(bil);
         fordonsLista.add(båt);
         fordonsLista.add(cykel);
+
+        String listPath = "src/ÖvnUppg12_serialisering/minaFordon.ser";
+        sm.serializeList(fordonsLista, listPath);
         
-        sm.serializeList(fordonsLista, 
-                "src/ÖvnUppg12_serialisering/minaFordon.ser");
-        
-        List<Fordon> f = sm.deSerializeList();
+        List<Fordon> f = sm.deSerializeList(listPath);
+        Fordon f1 = f.get(0);
+
         printList(f);
-        
+
+        System.out.println();
+
+        String oneFordonPath = "src/ÖvnUppg12_serialisering/ettFordon.ser";
+        sm.serializeFordon(cykel, oneFordonPath);
+        sm.deSerializeFordon(oneFordonPath).printMe();
+
     }
 
     /**
