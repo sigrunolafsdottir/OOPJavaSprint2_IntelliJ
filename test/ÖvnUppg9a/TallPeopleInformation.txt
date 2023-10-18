@@ -1,2 +1,3 @@
-Kalle Nilsson, Xvägen 1, 12345 Ystad
-25, 80, 220
+Kalle
+Mimmi
+Anton

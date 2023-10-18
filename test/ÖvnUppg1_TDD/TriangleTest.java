@@ -47,7 +47,6 @@ public class TriangleTest {
 
     @Test
     public final void testCircumference(){
-        Square s1 = new Square(1,2);
         assertTrue(t1.getCircumference() == 18);
         assertFalse(t1.getCircumference() == 23);
     }

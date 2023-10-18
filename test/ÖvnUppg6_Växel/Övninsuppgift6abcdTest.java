@@ -98,7 +98,7 @@ public class Övninsuppgift6abcdTest {
                 () -> x.readInputData("Hej", error));
     }
 
-    // uppgift 3d
+    // uppgift 6d
     @Test
     public final void readInputDataTest(){
         x.test = true;

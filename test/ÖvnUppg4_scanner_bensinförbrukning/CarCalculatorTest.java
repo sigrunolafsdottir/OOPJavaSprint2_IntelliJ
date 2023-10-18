@@ -2,6 +2,7 @@ package ÖvnUppg4_scanner_bensinförbrukning;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class CarCalculatorTest {
@@ -12,16 +13,20 @@ public class CarCalculatorTest {
     public final void calculateDistanceDrivenDuringLastYearTest(){
         double mätarställningNu = 23000;
         double mätarställningFörraÅret = 10000;
-        double x = c.calculateDistanceDrivenDuringLastYear(mätarställningNu, mätarställningFörraÅret);
-        assertTrue(x == 13000);
+        double expectedresult = mätarställningNu-mätarställningFörraÅret;
+
+        double actual = c.calculateDistanceDrivenDuringLastYear(mätarställningNu, mätarställningFörraÅret);
+        assertTrue(actual == expectedresult);
     }
 
     @Test
     public final void calculateAverageGasUsageTest(){
         double gasUsedLastYear = 10000;
         double distanceDrivenLastYear = 200;
-        double x = c.calculateAverageGasUsage(gasUsedLastYear, distanceDrivenLastYear);
-        assertTrue(x == 50);
+        double expectedresult = gasUsedLastYear/distanceDrivenLastYear;
+        double actualResult = c.calculateAverageGasUsage(gasUsedLastYear, distanceDrivenLastYear);
+        assertTrue(actualResult == expectedresult);
+        assertEquals(actualResult, expectedresult, 0.0001);
     }
 
     @Test

@@ -1,6 +1,7 @@
 package ÖvnUppg8;
 
 
+import ÖvnUppg8_inläsningFil.InprobableTemeratureException;
 import ÖvnUppg8_inläsningFil.ÖvnUppg8a;
 
 import java.util.ArrayList;
@@ -22,7 +23,7 @@ public class ÖvnUppg8aTest {
     ÖvnUppg8a x = new ÖvnUppg8a();
 
     @Test
-    public final void parseDoubleValueTest(){
+    public final void parseDoubleValueTest() throws InprobableTemeratureException {
         String val = "34,6";
         assertTrue(x.parseDoubleValue(val) == 34.6);
         assertFalse(x.parseDoubleValue(val) == 34.4);
@@ -31,6 +32,7 @@ public class ÖvnUppg8aTest {
                 NumberFormatException.class,
                 () -> x.parseDoubleValue("hej"));
     }
+
 
     @Test
     public final void generateListFromFileTest(){

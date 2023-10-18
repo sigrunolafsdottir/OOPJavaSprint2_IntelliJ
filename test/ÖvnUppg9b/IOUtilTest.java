@@ -1,7 +1,9 @@
 package ÖvnUppg9b;
 
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -22,6 +24,15 @@ public class IOUtilTest {
         List<Person> persons = ioUtil.readDataFromFile(inFile);
         assertTrue(persons.size() == 8);
         assertFalse(persons.size() == 5);
+    }
+
+
+    @Test
+    public final void readExactDataFromFileTest(){
+        List<Person> persons = ioUtil.readDataFromFile(inFile);
+
+        assertTrue(persons.get(0).getLength() == 175);
+        assertFalse(persons.get(0).getLength() == 187);
     }
 
     public final int countLinesInFile(String fileToCount){
@@ -48,8 +59,24 @@ public class IOUtilTest {
         List<Person> controlList = new ArrayList<>();
 
         ioUtil.writeDataToFile(outFile, testPersons);
+
         assertTrue(countLinesInFile(outFile) == 3);
         assertFalse(countLinesInFile(outFile) == 5);
+
+        try(BufferedReader b = new BufferedReader(new FileReader(outFile))){
+            String s = b.readLine();
+            assertTrue(s.equalsIgnoreCase("Kalle"));
+            s = b.readLine();
+            assertTrue(s.equalsIgnoreCase("Mimmi"));
+            s = b.readLine();
+            assertTrue(s.equalsIgnoreCase("Anton"));
+
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
 
     }
 }

@@ -39,9 +39,16 @@ public class CircleTest {
     public final void testCircumference(){
 
         //rätt svar: 18.8495559
+        //double res = c1.getCircumference();
+        //System.out.println(res);
+        //double test = Math.round(res * 100.0)/100.0;
+        //Double d = Double.
+       // System.out.println(test);
         assertTrue(c1.getCircumference() - 18.849 > 0 );
         assertTrue(c1.getCircumference() - 18.850 < 0);
 
-        assertEquals(c1.getCircumference(), 18.849, 0.001);
+        assertTrue(c1.getCircumference() == 18.84955592153876);
+
+        assertEquals(18.849, c1.getCircumference(), 0.001);
     }
 }

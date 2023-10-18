@@ -9,7 +9,9 @@ import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 public class SquareTest {
 
-    Square s1 = new Square(3,6);
+    int w = 6;
+    int len=3;
+    Square s1 = new Square(len,w);
 
     @Test
     public final void testGetters(){
