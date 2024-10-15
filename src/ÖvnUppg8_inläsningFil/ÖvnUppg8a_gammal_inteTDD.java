@@ -12,9 +12,9 @@ public class ÖvnUppg8a_gammal_inteTDD {
         double maxTemp = -Double.MAX_VALUE;
         double minTemp = Double.MAX_VALUE;
         String tempLine;
-        try{
-            BufferedReader reader = new BufferedReader(
-                    new FileReader("src/ÖvnUppg8_inläsningFil/temp.txt"));
+        try (BufferedReader reader = new BufferedReader(
+                new FileReader("src/ÖvnUppg8_inläsningFil/temp.txt"));){
+
             while((tempLine = reader.readLine()) != null){
                 
                 //bort med End of Line-tecknet och eventuella blanktecken som kan gömma sig i filen

@@ -6,8 +6,6 @@ import java.util.Scanner;
 public class Övning3_HärmapaScanner {
 
     Övning3_HärmapaScanner(){
-
-       //Scanner sc = new Scanner(System.in, "utf-8");
         Scanner sc = new Scanner(System.in);
        System.out.print("Write something: ");
        
@@ -19,12 +17,13 @@ public class Övning3_HärmapaScanner {
             System.out.println("You said: "+input);
             System.out.print("Write something: ");
         }
-/*
 
+
+/*
 //        //Variant
         Scanner sc2 = new Scanner(System.in);
         //reading a line at the time, not a word at the time
-       // sc2.useDelimiter("\\n");
+        //sc2.useDelimiter("\\n");
         System.out.print("Write something:  ");
 
         while (sc2.hasNext()){

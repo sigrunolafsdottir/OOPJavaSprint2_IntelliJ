@@ -19,8 +19,8 @@ public class PathDemo {
     //Ligger de i samma katalog måste de skrivas enligt src\\PathDemo\\filnamn
     
     public static void main(String[] arg) throws IOException {
-        /*
-       // Path path = Paths.get("src\\PathDemo\\testFil1");
+
+        Path path = Paths.get("src\\PathDemo\\testFil1");
 
         System.out.format("toString: %s%n", path.toString());
         System.out.format("getFileName: %s%n", path.getFileName());
@@ -30,27 +30,29 @@ public class PathDemo {
         System.out.format("getParent: %s%n", path.getParent());
         System.out.format("getRoot: %s%n", path.getRoot());
 
-        */
-        Path path = Paths.get("src/PathDemo/testFil1.txt");
+
+        //Path path = Paths.get("src/PathDemo/testFil1.txt");
 
         if (!Files.exists(path)){
             Files.createFile(path);
-            //BufferedWriter writer =
-            //  Files.newBufferedWriter(path, StandardCharsets.UTF_8);
-            //writer.write("nu skriver vi i vår fil");
-           // writer.flush();
-            //writer.close();
+            BufferedWriter writer =
+              Files.newBufferedWriter(path, StandardCharsets.UTF_8);
+            writer.write("nu skriver vi i vår fil gfdjngf gfdkngfd gfdg");
+            writer.flush();
+            writer.close();
         }
 
        Path path2 = Paths.get("src/PathDemo/filnamn2");
-        //Files.copy(path, path2 );
+        Files.copy(path, path2 );
         
-        //Files.delete(path2);
+       // Files.delete(path2);
 
         BufferedWriter writer = Files.newBufferedWriter(path2, StandardOpenOption.APPEND);
 
         writer.write("låt oss appenda ");
         writer.flush();
+
+
     }
 
 }

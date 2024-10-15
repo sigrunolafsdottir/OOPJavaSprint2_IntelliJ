@@ -1,18 +1,18 @@
 package ÖvnUppg6_Växel;
 
-import java.util.InputMismatchException;
-import java.util.NoSuchElementException;
-import java.util.Scanner;
+import java.util.*;
 
 
 public class Övningsuppgift6abcd {
     
-    protected String s = new String();
+    protected String s = "";
     public boolean test = false;
     protected Scanner sc;
     protected int[] sedlarOchMynt = {1000,500,200,100,50,20,10,5,2,1};
-    protected final String mynt = new String("kronor");
-    protected final String sedlar = new String("lappar");
+
+    //List<Integer> demoList = Arrays.asList(1000,500,200,100,50,20,10,5,2,1);
+    protected final String mynt = "kronor";
+    protected final String sedlar = "lappar";
 
 
     //räknar ut hur många ex av en vissa valör som ska finnas i växeln

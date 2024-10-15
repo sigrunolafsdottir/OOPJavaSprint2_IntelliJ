@@ -40,7 +40,7 @@ public class DateDemo {
         LocalDate now = LocalDate.now();
         System.out.println(now);
 
-        LocalDate anotherDay = LocalDate.of(2017,6,4);
+        LocalDate anotherDay = LocalDate.of(2017,2,4);
         System.out.println(anotherDay);
 
         LocalDate anotherDay2 = LocalDate
@@ -99,6 +99,7 @@ public class DateDemo {
 
         TimeZone tokyoTimeZone = TimeZone
                 .getTimeZone("Asia/Tokyo");
+
         TimeZone.setDefault(tokyoTimeZone);
 
         System.out.println(LocalTime.now());
@@ -129,7 +130,7 @@ public class DateDemo {
                 .ofPattern("HH:mm:ss")));
 
 
- 
+
 
         Instant inst1 = Instant.now();
             System.out.println("inst1: " + inst1);
@@ -151,11 +152,11 @@ public class DateDemo {
 
         System.out.println(Duration.between(inst1, inst2).toMillis());
 
-        System.out.println(Duration.between(lt, lt2).toHours());
+        System.out.println(Duration.between(lt, lt2).toMinutes());
 
- 
+
     }
-    
+
 
 
 }

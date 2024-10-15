@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="cleaning up old File-usage">
-      <change afterPath="$PROJECT_DIR$/src/ListDEmo/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Övn9bLive_demo2022_distans/FilterUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Övn9bLive_demo2022_distans/IOUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Övn9bLive_demo2022_distans/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Övn9bLive_demo2022_distans/FilterUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Övn9bLive_demo2022_distans/IOUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Övn9bLive_demo2022_distans/Personuppgifter.txt" afterDir="false" />
+    <list default="true" id="45c03663-bca3-455c-8688-5faec88f56fa" name="Default Changelist" comment="cleanup, removing old live stuff">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PathDemo/testFil1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/InprobableTemeratureException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sprint2/LiveKodTallPeople/Personuppgifter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sprint2/ÖvnUppg9a/Personuppgifter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sprint2/LiveKodTallPeople/Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sprint2/LiveKodTallPeople/PersonuppgifterSmall.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sprint2/Uppg8LiveTest/testtemp.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateDemo/DateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg11_videobandspelare/Övningsuppgift11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg11_videobandspelare/Övningsuppgift11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ÖvnUppg1_TDD/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionDemo/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionDemo/ExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionDemo/TestExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionDemo/TestExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PathDemo/PathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PathDemo/PathDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PathDemo/filnamn2" beforeDir="false" afterPath="$PROJECT_DIR$/src/PathDemo/filnamn2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PathDemo/testFil1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamDemo/TryWithResourcesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamDemo/TryWithResourcesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uppg8Live/Uppg8Live.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uppg8Live/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn10Live/TimeProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn6LiveDemo2022_distans/SIgrunsLista.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn6LiveDemo2022_distans/Övn6Livedemo_2022_distans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn6LiveDemoPåplats2022/Övn6LiveDemoPåplats2022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn9Live2/DateProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn9Live2/Övn9Live2Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn9bLive_demo2022_distans/FilterUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn9bLive_demo2022_distans/IOUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Övn9bLive_demo2022_distans/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUPpg6_LiveDemo/ÖvnUppg6_live.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg3_härmapa/Övning3_HärmapaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg3_härmapa/Övning3_HärmapaScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg6_Växel/Övningsuppgift6abcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/temp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÖvnUppg8_inläsningFil/ÖvnUppg8a_gammal_inteTDD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +80,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sigrunolafsdottir&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sigrunolafsdottir/OOPJavaSprint2_IntelliJ.git&quot;,
+    &quot;accountId&quot;: &quot;f783c990-b0ae-4fe0-89cf-adf6b5581c52&quot;
+  }
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -119,6 +155,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="399" />
     <option name="y" value="161" />
@@ -214,9 +253,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestExceptionDemo.executor": "Run",
+    "Application.ÖvnUppg5.executor": "Run",
+    "Application.ÖvnUppg5_Bas.executor": "Run",
+    "Application.Övning3_HärmapaScanner.executor": "Run",
+    "JUnit.Övninsuppgift6abcdTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/s_ola/Dropbox/Jobb/OOochJava/Sprint2/kod/IntelliJ",
-    "settings.editor.selected.configurable": "reference.settings.deploy.options"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.deploy.options",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -243,13 +297,13 @@
       <recent name="ÖvnUppg6_Växel" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CircleTest">
-    <configuration name="Övningsuppgift10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg10_klocka.Övningsuppgift10" />
+  <component name="RunManager" selected="JUnit.Övninsuppgift6abcdTest">
+    <configuration name="TestExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionDemo.TestExceptionDemo" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg10_klocka.*" />
+          <option name="PATTERN" value="ExceptionDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Övningsuppgift11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg11_videobandspelare.Övningsuppgift11" />
+    <configuration name="ÖvnUppg5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg5_exceptions.ÖvnUppg5" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg11_videobandspelare.*" />
+          <option name="PATTERN" value="ÖvnUppg5_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,67 +324,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ÖvnUppg5_Bas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg5_exceptions.ÖvnUppg5_Bas" />
       <module name="Sprint2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ÖvnUppg1_TDD.*" />
+          <option name="PATTERN" value="ÖvnUppg5_exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg1_TDD" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg1_TDD.CircleTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Övning3_HärmapaScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg3_härmapa.Övning3_HärmapaScanner" />
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg3_härmapa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Övninsuppgift6abcdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ÖvnUppg6_Växel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ÖvnUppg6_Växel" />
+      <option name="MAIN_CLASS_NAME" value="ÖvnUppg6_Växel.Övninsuppgift6abcdTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest.testArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg1_TDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg1_TDD" />
-      <option name="MAIN_CLASS_NAME" value="ÖvnUppg1_TDD.CircleTest" />
-      <option name="METHOD_NAME" value="testArea" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ÖvnUppg1_TDD in Sprint2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sprint2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ÖvnUppg1_TDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ÖvnUppg1_TDD" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Övningsuppgift10" />
-      <item itemvalue="Application.Övningsuppgift11" />
-      <item itemvalue="JUnit.CircleTest" />
-      <item itemvalue="JUnit.CircleTest.testArea" />
-      <item itemvalue="JUnit.ÖvnUppg1_TDD in Sprint2" />
+      <item itemvalue="Application.TestExceptionDemo" />
+      <item itemvalue="Application.ÖvnUppg5" />
+      <item itemvalue="Application.ÖvnUppg5_Bas" />
+      <item itemvalue="Application.Övning3_HärmapaScanner" />
+      <item itemvalue="JUnit.Övninsuppgift6abcdTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CircleTest" />
-        <item itemvalue="JUnit.CircleTest.testArea" />
-        <item itemvalue="JUnit.ÖvnUppg1_TDD in Sprint2" />
-        <item itemvalue="Application.Övningsuppgift11" />
-        <item itemvalue="Application.Övningsuppgift10" />
+        <item itemvalue="JUnit.Övninsuppgift6abcdTest" />
+        <item itemvalue="Application.ÖvnUppg5" />
+        <item itemvalue="Application.ÖvnUppg5_Bas" />
+        <item itemvalue="Application.TestExceptionDemo" />
+        <item itemvalue="Application.Övning3_HärmapaScanner" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -373,7 +431,13 @@
       <workItem from="1665922832504" duration="701000" />
       <workItem from="1665946666270" duration="7879000" />
       <workItem from="1666075660820" duration="13051000" />
-      <workItem from="1696694015404" duration="1510000" />
+      <workItem from="1696694015404" duration="11805000" />
+      <workItem from="1697014982034" duration="14517000" />
+      <workItem from="1697435407394" duration="20965000" />
+      <workItem from="1708331376635" duration="925000" />
+      <workItem from="1708417553753" duration="736000" />
+      <workItem from="1728544670395" duration="6222000" />
+      <workItem from="1728627136789" duration="7478000" />
     </task>
     <task id="LOCAL-00001" summary="Adding övn uppg5">
       <created>1598276344169</created>
@@ -521,7 +585,43 @@
       <option name="project" value="LOCAL" />
       <updated>1665664762970</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added delta example to tests">
+      <created>1696774027614</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696774027614</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updated test uppg 8">
+      <created>1697533594365</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697533594365</updated>
+    </task>
+    <task id="LOCAL-00024" summary="serialization instanceof fix">
+      <created>1697545068799</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1697545068799</updated>
+    </task>
+    <task id="LOCAL-00025" summary="live fix övn 9 test">
+      <created>1697635796039</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1697635796039</updated>
+    </task>
+    <task id="LOCAL-00026" summary="cleanup, removing old live stuff">
+      <option name="closed" value="true" />
+      <created>1728639894831</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728639894831</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -657,7 +757,12 @@
     <MESSAGE value="mini cleanup" />
     <MESSAGE value="adding live demo uppg 6 påplats" />
     <MESSAGE value="cleaning up old File-usage" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaning up old File-usage" />
+    <MESSAGE value="added delta example to tests" />
+    <MESSAGE value="updated test uppg 8" />
+    <MESSAGE value="serialization instanceof fix" />
+    <MESSAGE value="live fix övn 9 test" />
+    <MESSAGE value="cleanup, removing old live stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup, removing old live stuff" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

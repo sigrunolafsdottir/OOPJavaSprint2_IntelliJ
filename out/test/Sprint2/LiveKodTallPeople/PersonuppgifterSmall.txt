@@ -1,8 +1,0 @@
-Kalle Nilsson, Xvägen 1, 12345 Ystad
-25, 80, 175
-Mimmi Mattsson, Xvägen 2, 12345 Ystad
-25, 68, 169
-Rulle Rullson, Xvägen 3, 12345 Ystad
-56, 35, 201
-Putte Persson, Xvägen 4, 12345 Ystad
-27, 130, 198

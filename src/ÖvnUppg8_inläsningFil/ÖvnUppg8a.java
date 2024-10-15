@@ -12,11 +12,14 @@ public class ÖvnUppg8a {
     final String tempPath = "src/ÖvnUppg8_inläsningFil/temp.txt";
 
 
-    public Double parseDoubleValue(String val){
+    public Double parseDoubleValue(String val) throws InprobableTemeratureException {
         Double temp;
         val.trim();
         String replaced = val.replaceAll(",", ".");
         temp = Double.parseDouble(replaced);
+        if (temp > 100 || temp < -100){
+            throw new InprobableTemeratureException("helt galet");
+        }
         return temp;
 
     }
@@ -30,6 +33,12 @@ public class ÖvnUppg8a {
                 Double temp = parseDoubleValue(tempLine);
                 allMeasurements.add(temp);
             }
+        }
+        catch (InprobableTemeratureException e){
+            System.out.println("Felaktig temperatur, kolla datat");
+            System.out.println(e.mess);
+            e.printStackTrace();
+            System.exit(0);
         }
         catch (Exception e){
                 System.out.println("Något gick fel");

@@ -1,13 +1,15 @@
 package ExceptionDemo;
 
 public class TestExceptionDemo {
-    void method()throws TestException{  
-       // throw new TestException("TestException Occurred");  
+
+    void method() throws TestException{
+        throw new TestException("TestException Occurred in method");
     }  
 
-    void firstMethod()throws TestException{  
-        throw new TestException("Error in firstMethod");
-         //   method();
+    void firstMethod() throws TestException{
+        System.out.println("in firstMethod");
+       // throw new TestException("Error in firstMethod");
+            method();
     }
     
     
@@ -19,7 +21,8 @@ public class TestExceptionDemo {
         }
         catch (TestException t){
             System.out.println("Caught TestException in main");
-            System.out.println(  t.s);
+            System.out.println(  t.s);   //prints exception message
+            t.printStackTrace();
         }
         catch (Exception ae){
            // if( ae instanceof TestException){
